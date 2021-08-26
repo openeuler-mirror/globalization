@@ -1,4 +1,4 @@
-### How to write the "About" description of a project
+# How to write the "About" description of a project
 
 
 "About" (简介) provides a brief introduction to the project. A good "About" is
