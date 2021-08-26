@@ -29,8 +29,8 @@ For example,
 
 -   A bundle which aims to provide a full integration of MeilliSearch in Symfony
 
-<font color=maroon>"About" can be a short, full sentence or a noun phrase. Choose the right style
+<font color=red>"About" can be a short, full sentence or a noun phrase. Choose the right style
 based on the project characteristics.</font>
 
-<font color=maroon>When we choose to use a noun phrase, start it with an article when needed but do
+<font color=red>When we choose to use a noun phrase, start it with an article when needed but do
 not use a period (.) at the end.</font>
