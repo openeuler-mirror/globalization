@@ -4,7 +4,7 @@ The openEuler developer community is built more than just code. Our voice and to
 
 ## Conversational tone  
 
-==Using a lighthearted, friendly tone== and offering specific suggestions for contributions can go a long way in making people feel welcomed and excited to participate in openEuler.   
+**Using a lighthearted, friendly tone** and offering specific suggestions for contributions can go a long way in making people feel welcomed and excited to participate in openEuler.   
 
 For example,  
 
@@ -14,13 +14,13 @@ For example,
 
 ## Inclusive language
 
-==Use simple language==, as many of our readers may not be native English speakers. Therefore,  
+**Use simple language**, as many of our readers may not be native English speakers. Therefore,  
 
 - Don't idioms. Use more formal terms that are well defined.  
 
 - Keep things brief, and avoid words and phrases that are vague or confusing.   
 
-==All users and developers are welcomed== in the openEuler community. We're going to have people with diverse backgrounds. Therefore,  
+**All users and developers are welcomed** in the openEuler community. We're going to have people with diverse backgrounds. Therefore,  
 
 - Don't use any terms that any group may feel offended.  
 - Always use gender-neutral pronouns.  
