@@ -16,7 +16,7 @@ For example,
 
 **Use simple language**, as many of our readers may not be native English speakers. Therefore,  
 
-- Don't idioms. Use more formal terms that are well defined.  
+- Don't use idioms. Use more formal terms that are well defined.  
 
 - Keep things brief, and avoid words and phrases that are vague or confusing.   
 
