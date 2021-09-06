@@ -1,4 +1,7 @@
-# <div align=center>openEuler G11N 贡献指南</div>
+# openEuler G11N 贡献指南
+
+
+![`输入图片说明`](https://gitee.com/yanhuiling/globalization/raw/master/images/%E6%8D%95%E8%8E%B7.PNG "在这里输入图片标题")
 
 openEuler G11N 特别兴趣小组旨在向全球不同语言背景的openEuler开发者提供专业语言服务平台，向国内开发者普及全球化能力，跨越语言和文化障碍，壮大openEuler社区，使openEuler惠及更多开发者。 
 
