@@ -48,7 +48,7 @@ openEuler需要翻译的材料包括官网内容以及开源社区160+仓库的R
 
 **步骤 2**:  注册成功后登录，点击页面左上角的**个人主页**进入你的个人页面，点击头像下的**个人设置**，再在左边导航栏选择**邮箱管理**，设置一个你的常用邮箱作为主邮箱（这个邮箱非常重要，后面用来接收翻译项目，会议通知等）。 
 
-###### <img src="https://gitee.com/yanhuiling/globalization/blob/master/images/image%206.png" alt="image 6" style="zoom:80%;" />
+###### ![image 6](https://gitee.com/yanhuiling/globalization/raw/master/images/image%206.png "image 6")
 
 **步骤 3**:  签署openEuler社区[贡献者许可协议 (CLA)](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=) 。请选择**个人CLA**。签署邮箱请填写你设置的主邮箱。
 
