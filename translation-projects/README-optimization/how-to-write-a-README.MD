@@ -1,12 +1,12 @@
 # 如何写作README
 
-<img src="https://readme.com/static/team.png" alt="readme" title="readme" style="zoom:50%;" />
+<img src="https://readme.com/static/team.png" alt="readme" title="readme" style="zoom:30%;" />
 
 
 
 通常，开发者和用户要了解你的项目，会首先去看项目的README文件。   
 
-**README文件应该明确地告诉大家，你的项目是用来做什么的，为什么他们应该使用你的项目，以及如何安装它、使用它。 **   
+**README文件应该明确地告诉大家，你的项目是用来做什么的，为什么他们应该使用你的项目，以及如何安装它、使用它。**   
 
 可点击文末的[README样例链接](#README内容其他说明)，进一步理解本文所述的内容。  
 
@@ -28,15 +28,15 @@
 
 :one: 项目徽章  
 
-:two: **项目介绍（必选） ** 
+:two: **项目介绍（必选）** 
 
 :three: 目录  
 
-:four: **如何使用（必选） ** 
+:four: **如何使用（必选）** 
 
 :five: 参与贡献  
 
-:six: **许可证（必选） ** 
+:six: **许可证（必选）** 
 
 :seven: 辅助信息  
 
@@ -56,7 +56,7 @@
 
 例如：    
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9L2HCK0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uyujugdij57cmwovyi85.png" alt="badges" title="badges" style="zoom: 50%;" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9L2HCK0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uyujugdij57cmwovyi85.png" alt="badges" title="badges" style="zoom: 20%;" />
 
 ## :dart:目录
 
