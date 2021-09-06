@@ -60,7 +60,7 @@ openEuler需要翻译的材料包括官网内容以及开源社区160+仓库的R
 
 3. 填写你的名字和主邮箱用于接收G11N消息。
 
-###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%207.PNG" alt="image 7" style="zoom:80%;" />
+###### <img src="https://gitee.com/yanhuiling/globalization/raw/master/images/image%207.png" alt="image 7" style="zoom:80%;" />
 
 4. 提交订阅后你的邮箱会收到一个confirm邮件，直接回复邮件进行确认。待收到"Welcome to the "G11n" mailing list"邮件，说明你已订阅成功。
 
@@ -68,11 +68,11 @@ openEuler需要翻译的材料包括官网内容以及开源社区160+仓库的R
 
 想要贡献openEuler开源社区，有两个工具需熟练掌握，一个是Typora，一个是Git。
 
-Typora（[下载](https://typora.io/)）：Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，包括对GitHub Flavored Markdown扩展格式的支持、拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性。之后我们译稿或博客上传到开源社区需要使用这个格式。具体使用方法，请参考[markdown-basics](待补充链接)。
+Typora（[下载](https://typora.io/)）：Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，包括对GitHub Flavored Markdown扩展格式的支持、拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性。之后我们译稿或博客上传到开源社区需要使用这个格式。具体使用方法，请参考[markdown-basics](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/markdown-basics.md)。
 
 ###### <img src="https://gitee.com/yanhuiling/globalization/raw/master/images/image%209.png" alt="image 9" style="zoom:80%;" />
 
-Git（[下载](https://gitforwindows.org/ )）: Git是一个开源的分布式版本控制系统，可以有效、高速地处理项目版本管理。 我们翻译或创作好的文档需要通过Git工具上传到开源社区。请大家自学一下Git 工具的使用。我们也提供了丰富的学习资源，请参考[git-self-learning-materials](待补充链接)和[git-basics](待补充链接)。
+Git（[下载](https://gitforwindows.org/ )）: Git是一个开源的分布式版本控制系统，可以有效、高速地处理项目版本管理。 我们翻译或创作好的文档需要通过Git工具上传到开源社区。请大家自学一下Git 工具的使用。我们也提供了丰富的学习资源，请参考[git-self-learning-materials](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/git-self-learning-materials.md)和[git-basics](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/git-basics.md)。
 
 ###### ![image 10](https://gitee.com/yanhuiling/globalization/raw/master/images/image%2010.png)
 
@@ -82,9 +82,9 @@ Git（[下载](https://gitforwindows.org/ )）: Git是一个开源的分布式�
 
 上面的准备工作做好后，大家就可以开始参与G11N发布的翻译项目啦。目前试点英文翻译项目，主要流程如下：
 
-- G11N翻译项目协调人员将待翻译任务列表放在G11N/globalization仓库的[translation-projects](https://gitee.com/openeuler/globalization/tree/master/translation-projects)文件夹下，每个翻译任务以“编号-文档名-交付时间”命名并附上对应仓库链接。项目启动时，G11N协调人员会给大家邮箱发布翻译列表，大家根据邮件里的链接或直接进入translation-projects文件夹选取感兴趣的任务发送到G11N邮箱（[g11n@openeuler.org](mailto:g11n@openeuler.org) ）。协调人员收到后会在该任务Translator一栏写上你的ID。有任何问题都可以发邮件到[g11n@openeuler.org](mailto:g11n@openeuler.org)，工作日实时回复。
+- G11N翻译项目协调人员将待翻译任务列表放在G11N/globalization仓库的[translation-projects](https://gitee.com/openeuler/globalization/tree/master/translation-projects)文件夹下，每个翻译任务以“编号-任务名-交付时间”命名并附上对应仓库链接。项目启动时，G11N协调人员会给大家邮箱发布翻译列表，大家根据邮件里的链接或直接进入translation-projects文件夹选取感兴趣的任务发送到G11N邮箱（[g11n@openeuler.org](mailto:g11n@openeuler.org) ）。协调人员收到后会在该任务Translator一栏写上你的ID。有任何问题都可以发邮件到[g11n@openeuler.org](mailto:g11n@openeuler.org)，工作日实时回复。
 
-- 认领好自己的待翻译任务后就可以点击仓库链接去到对应仓库获取待翻译内容。你可以拷贝到线下用word格式进行翻译，方便工具检查和评审，也可以直接用Markdown格式进行编辑。相关翻译风格指南和术语，请参考[xxx](待补充)和xxx。翻译完成后请先自检，保证没有低错、语法错误等。然后发送邮件到G11N邮箱申请评审（请在截稿时间前1-2天发评审，给评审人员预留时间）。评审完成后也会通过邮件返回给你。
+- 认领好自己的待翻译任务后就可以点击仓库链接去到对应仓库获取待翻译内容。你可以拷贝到线下用word格式进行翻译，方便工具检查和评审，也可以直接用Markdown格式进行编辑。相关翻译风格指南和术语，请参考[Tips for translating web content](https://gitee.com/openeuler/globalization/blob/master/translation-tips-and-terminology/Tips-for-translating-web-content.md)和[Terms and tips](https://gitee.com/openeuler/globalization/blob/master/translation-tips-and-terminology/Terminology.md)。翻译完成后请先自检，保证没有低错、语法错误等。然后发送邮件到G11N邮箱申请评审（请在截稿时间前1-2天发评审，给评审人员预留时间）。评审完成后也会通过邮件返回给你。
 
 - 译稿完成翻译和评审后，你就可以上传到对应仓库，具体方式有两种：轻量级Pull Request（PR）和Git工具上传（需要学习Git工具使用）。
 
