@@ -1,6 +1,6 @@
 # 如何写作README
 
-<img src="https://readme.com/static/team.png" alt="readme" title="readme" style="zoom:50%;" />
+<img src="https://readme.com/static/team.png" alt="readme" title="readme" style="zoom:30%;" />
 
 
 
@@ -56,7 +56,7 @@
 
 例如：    
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9L2HCK0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uyujugdij57cmwovyi85.png" alt="badges" title="badges" style="zoom: 50%;" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9L2HCK0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uyujugdij57cmwovyi85.png" alt="badges" title="badges" style="zoom: 20%;" />
 
 ## :dart:目录
 
