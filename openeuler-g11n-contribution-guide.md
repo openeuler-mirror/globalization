@@ -38,8 +38,6 @@ openEuler需要翻译的材料包括官网内容以及开源社区160+仓库的R
 
 欢迎大家对G11N的材料和交付件进行修改和优化，包括各个仓库的译稿，翻译指导，全球化规范，博客等，只要你发现了不合理/错误的地方，都欢迎提交PR进行修改，让我们一起打造更专业的全球化兴趣小组。
 
-![image 5](https://gitee.com/yanhuiling/globalization/raw/master/images/image%205.png)
-
 以下为具体的贡献指导，请按照步骤操作。
 
 # 一、注册账号并订阅G11N
@@ -70,11 +68,7 @@ openEuler需要翻译的材料包括官网内容以及开源社区160+仓库的R
 
 Typora（[下载](https://typora.io/)）：Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，包括对GitHub Flavored Markdown扩展格式的支持、拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性。之后我们译稿或博客上传到开源社区需要使用这个格式。具体使用方法，请参考[markdown-basics](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/markdown-basics.md)。
 
-###### <img src="https://gitee.com/yanhuiling/globalization/raw/master/images/image%209.png" alt="image 9" style="zoom:80%;" />
-
 Git（[下载](https://gitforwindows.org/ )）: Git是一个开源的分布式版本控制系统，可以有效、高速地处理项目版本管理。 我们翻译或创作好的文档需要通过Git工具上传到开源社区。请大家自学一下Git 工具的使用。我们也提供了丰富的学习资源，请参考[git-self-learning-materials](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/git-self-learning-materials.md)和[git-basics](https://gitee.com/openeuler/G11N/blob/master/learning-materials/open-source-basics/git-basics.md)。
-
-###### ![image 10](https://gitee.com/yanhuiling/globalization/raw/master/images/image%2010.png)
 
 # 三、翻译项目参与流程
 
