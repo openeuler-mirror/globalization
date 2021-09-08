@@ -137,7 +137,7 @@ Git（[下载](https://gitforwindows.org/ )）: Git是一个开源的分布式�
 ```
 git add .**
 
-**git commit -m “****变更说明”**
+**git commit -m "****变更说****"
 
 **git push
 ```
@@ -165,7 +165,7 @@ git add .**
 - 校对：负责将初译/初写的文章进行文字润色、技术校对等工作。
 - 发布：负责将校对后的文章进行排版和发布。
 
-你可以自己担任所有角色，自己选择合适的文章进行翻译或自己选择主题进行撰写，排版好之后通过Git工具上传到[openEuler](https://gitee.com/openeuler) / [globalization](https://gitee.com/openeuler/globalization)仓库的xxx文件夹下。上传方式跟上传译稿一样,请参考[上传文档到代码仓](#上传文档到代码仓)。你也可以选择翻译我们指定的文章或跟我指定主题进行创作，完成后发到G11N 邮箱申请文字润色和技术校对。引用内容请注明出处。文章末尾请附上参与人ID。比如：
+你可以自己担任所有角色，自己选择合适的文章进行翻译或自己选择主题进行撰写，排版好之后通过Git工具上传到[openEuler](https://gitee.com/openeuler) / [globalization](https://gitee.com/openeuler/globalization)仓库的[openEuler/globalization](https://gitee.com/openeuler/globalization/tree/master/documentation)文件夹下。上传方式跟上传译稿一样,请参考[上传文档到代码仓](#上传文档到代码仓)。你也可以选择翻译我们指定的文章或跟我指定主题进行创作，完成后发到G11N 邮箱申请文字润色和技术校对。引用内容请注明出处。文章末尾请附上参与人ID。比如：
 
 - 选题：G11N
 - 译者/作者：yan@123
