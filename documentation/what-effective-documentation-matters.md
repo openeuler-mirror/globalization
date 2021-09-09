@@ -13,7 +13,7 @@ A good way to accelerate the usage of your software is to describe its advantage
 - Reduce TCO  
 - Improve user interaction  
 
-On the opposite, **ineffective documentation may cause the following problems: **  
+On the opposite, **ineffective documentation may cause the following problems:**  
 
 - Time waste  
 - Software errors or even breakdowns  
