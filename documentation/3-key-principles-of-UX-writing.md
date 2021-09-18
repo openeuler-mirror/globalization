@@ -38,5 +38,5 @@ For example, when we writing a README for our project, we need to answer at leas
 * Why did you build this project?  
 * What problem does it solve?  
 
-**For our open source project, consider our audience's likely background, goals, and current mood. A good UX writing will have more people use and contribute to our project.**
+**For an open source project, consider our audience's likely background, goals, and current mood. A good UX writing will have more people use and contribute to our project.**
 
