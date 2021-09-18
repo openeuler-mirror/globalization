@@ -49,76 +49,76 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | Repo                   | Repo Link                                          | 贡献者 |
 | ---------------------- | -------------------------------------------------- | ------ |
 | A-Ops                  | https://gitee.com/openeuler/A-Ops                  |        |
-| A-Tune                 | https://gitee.com/openeuler/A-Tune                 |        |
-| A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       |        |
-| A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              |        |
+| A-Tune                 | https://gitee.com/openeuler/A-Tune                 | 已认领  |
+| A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       | 已认领  |
+| A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              | 已认领  |
 | aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder |        |
 | abichecker             | https://gitee.com/openeuler/abichecker             |        |
-| anbox                  | https://gitee.com/openeuler/anbox                  |        |
+| anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
 | android-emulator       | https://gitee.com/openeuler/android-emulator       |        |
 | api-guarder            | https://gitee.com/openeuler/api-guarder            |        |
 | async-libfuse          | https://gitee.com/openeuler/async-libfuse          |        |
-| attest-tools           | https://gitee.com/openeuler/attest-tools           |        |
+| attest-tools           | https://gitee.com/openeuler/attest-tools           | 已认领  |
 | authz                  | https://gitee.com/openeuler/authz                  |        |
-| auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            |        |
-| avocado                | https://gitee.com/openeuler/avocado                |        |
-| avocado-vt             | https://gitee.com/openeuler/avocado-vt             |        |
-| AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              |        |
+| auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            | 已认领  |
+| avocado                | https://gitee.com/openeuler/avocado                | 已认领  |
+| avocado-vt             | https://gitee.com/openeuler/avocado-vt             | 已认领  |
+| AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              | 已认领  |
 | bgmprovider            | https://gitee.com/openeuler/bgmprovider            |        |
 | bioinformatics         | https://gitee.com/openeuler/bioinformatics         |        |
-| bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          |        |
-| bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           |        |
-| bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       |        |
+| bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领  |
+| bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领  |
+| bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领  |
 | blesschess             | https://gitee.com/openeuler/blesschess             |        |
-| ci-bot                 | https://gitee.com/openeuler/ci-bot                 |        |
-| clibcni                | https://gitee.com/openeuler/clibcni                |        |
-| cloudnative            | https://gitee.com/openeuler/cloudnative            |        |
-| community              | https://gitee.com/openeuler/community              |        |
-| community-issue        | https://gitee.com/openeuler/community-issue        |        |
-| compass-ci             | https://gitee.com/openeuler/compass-ci             |        |
+| ci-bot                 | https://gitee.com/openeuler/ci-bot                 | 已认领  |
+| clibcni                | https://gitee.com/openeuler/clibcni                | 已认领  |
+| cloudnative            | https://gitee.com/openeuler/cloudnative            | 已认领  |
+| community              | https://gitee.com/openeuler/community              | 已认领  |
+| community-issue        | https://gitee.com/openeuler/community-issue        | 已认领  |
+| compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领  |
 | compat-winapp          | https://gitee.com/openeuler/compat-winapp          |        |
 | compiler-test          | https://gitee.com/openeuler/compiler-test          |        |
 | compliance             | https://gitee.com/openeuler/compliance             |        |
 | container-test         | https://gitee.com/openeuler/container-test         |        |
 | custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |        |
 | cve-manager            | https://gitee.com/openeuler/cve-manager            |        |
-| digest-list-tools      | https://gitee.com/openeuler/digest-list-tools      |        |
-| docs                   | https://gitee.com/openeuler/docs                   |        |
+| digest-list-tools      | https://gitee.com/openeuler/digest-list-tools      | 已认领  |
+| docs                   | https://gitee.com/openeuler/docs                   | 已认领  |
 | duoyibu-ai             | https://gitee.com/openeuler/duoyibu-ai             |        |
 | DyscheOS-kernel        | https://gitee.com/openeuler/DyscheOS-kernel        |        |
-| DyscheOS-utils         | https://gitee.com/openeuler/DyscheOS-utils         |        |
+| DyscheOS-utils         | https://gitee.com/openeuler/DyscheOS-utils         | 已认领  |
 | easy-checker           | https://gitee.com/openeuler/easy-checker           |        |
-| eggo                   | https://gitee.com/openeuler/eggo                   |        |
-| embedded               | https://gitee.com/openeuler/embedded               |        |
-| etmem                  | https://gitee.com/openeuler/etmem                  |        |
-| EulerRobot             | https://gitee.com/openeuler/EulerRobot             |        |
-| G11N                   | https://gitee.com/openeuler/G11N                   |        |
-| gazelle-cni            | https://gitee.com/openeuler/gazelle-cni            |        |
+| eggo                   | https://gitee.com/openeuler/eggo                   | 已认领  |
+| embedded               | https://gitee.com/openeuler/embedded               | 已认领  |
+| etmem                  | https://gitee.com/openeuler/etmem                  | 已认领  |
+| EulerRobot             | https://gitee.com/openeuler/EulerRobot             | 已认领  |
+| G11N                   | https://gitee.com/openeuler/G11N                   | 已认领  |
+| gazelle-cni            | https://gitee.com/openeuler/gazelle-cni            | 已认领  |
 | gcc                    | https://gitee.com/openeuler/gcc                    |        |
-| geo-coding             | https://gitee.com/openeuler/geo-coding             |        |
+| geo-coding             | https://gitee.com/openeuler/geo-coding             | 已认领  |
 | gitbook-theme-hugo     | https://gitee.com/openeuler/gitbook-theme-hugo     |        |
-| globalization          | https://gitee.com/openeuler/globalization          |        |
-| go-gitee               | https://gitee.com/openeuler/go-gitee               |        |
-| ha-api                 | https://gitee.com/openeuler/ha-api                 |        |
+| globalization          | https://gitee.com/openeuler/globalization          | 已认领  |
+| go-gitee               | https://gitee.com/openeuler/go-gitee               | 已认领  |
+| ha-api                 | https://gitee.com/openeuler/ha-api                 | 已认领  |
 | ha-web                 | https://gitee.com/openeuler/ha-web                 |        |
-| hpc                    | https://gitee.com/openeuler/hpc                    |        |
-| infrastructure         | https://gitee.com/openeuler/infrastructure         |        |
-| integration-test       | https://gitee.com/openeuler/integration-test       |        |
-| isula-build            | https://gitee.com/openeuler/isula-build            |        |
-| iSula-libutils         | https://gitee.com/openeuler/iSula-libutils         |        |
-| isula-transform        | https://gitee.com/openeuler/isula-transform        |        |
-| iSulad                 | https://gitee.com/openeuler/iSulad                 |        |
-| iSulad-img             | https://gitee.com/openeuler/iSulad-img             |        |
-| itrustee_sdk           | https://gitee.com/openeuler/itrustee_sdk           |        |
+| hpc                    | https://gitee.com/openeuler/hpc                    | 已认领  |
+| infrastructure         | https://gitee.com/openeuler/infrastructure         | 已认领  |
+| integration-test       | https://gitee.com/openeuler/integration-test       | 已认领  |
+| isula-build            | https://gitee.com/openeuler/isula-build            | 已认领  |
+| iSula-libutils         | https://gitee.com/openeuler/iSula-libutils         | 已认领  |
+| isula-transform        | https://gitee.com/openeuler/isula-transform        | 已认领  |
+| iSulad                 | https://gitee.com/openeuler/iSulad                 | 已认领  |
+| iSulad-img             | https://gitee.com/openeuler/iSulad-img             | 已认领  |
+| itrustee_sdk           | https://gitee.com/openeuler/itrustee_sdk           | 已认领  |
 | Java-Packages          | https://gitee.com/openeuler/Java-Packages          |        |
-| kae_driver             | https://gitee.com/openeuler/kae_driver             |        |
-| kata_integration       | https://gitee.com/openeuler/kata_integration       |        |
+| kae_driver             | https://gitee.com/openeuler/kae_driver             | 已认领  |
+| kata_integration       | https://gitee.com/openeuler/kata_integration       | 已认领  |
 | kbox                   | https://gitee.com/openeuler/kbox                   |        |
-| kernel                 | https://gitee.com/openeuler/kernel                 |        |
+| kernel                 | https://gitee.com/openeuler/kernel                 | 已认领  |
 | kernel-portal          | https://gitee.com/openeuler/kernel-portal          |        |
 | ksc-defender           | https://gitee.com/openeuler/ksc-defender           |        |
-| kubekey                | https://gitee.com/openeuler/kubekey                |        |
-| kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            |        |
+| kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
+| kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
 | lcr                    | https://gitee.com/openeuler/lcr                    |        |
 | lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |        |
 | libboundscheck         | https://gitee.com/openeuler/libboundscheck         |        |
@@ -135,7 +135,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | mugen                  | https://gitee.com/openeuler/mugen                  |        |
 | mysql                  | https://gitee.com/openeuler/mysql                  |        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
-| nvwa                   | https://gitee.com/openeuler/nvwa                   |        |
+| nvwa                   | https://gitee.com/openeuler/nvwa                   | 已认领  |
 | oec-application        | https://gitee.com/openeuler/oec-application        |        |
 | oec-hardware           | https://gitee.com/openeuler/oec-hardware           |        |
 | oemaker                | https://gitee.com/openeuler/oemaker                |        |
@@ -148,11 +148,11 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     |        |
 | openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |        |
 | openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   |        |
-| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     |        |
+| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | 已认领  |
 | openjfx8               | https://gitee.com/openeuler/openjfx8               |        |
 | openRSO                | https://gitee.com/openeuler/openRSO                |        |
 | openstack              | https://gitee.com/openeuler/openstack              |        |
-| operator-manager       | https://gitee.com/openeuler/operator-manager       |        |
+| operator-manager       | https://gitee.com/openeuler/operator-manager       | 已认领  |
 | pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |        |
 | package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |        |
 | patch-tracking         | https://gitee.com/openeuler/patch-tracking         |        |
