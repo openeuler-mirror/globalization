@@ -53,7 +53,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       | 已认领  |
 | A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              | 已认领  |
 | aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder |        |
-| abichecker             | https://gitee.com/openeuler/abichecker             |        |
+| abichecker             | https://gitee.com/openeuler/abichecker             |Douber123|
 | anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
 | android-emulator       | https://gitee.com/openeuler/android-emulator       |        |
 | api-guarder            | https://gitee.com/openeuler/api-guarder            |        |
@@ -116,7 +116,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | kbox                   | https://gitee.com/openeuler/kbox                   |        |
 | kernel                 | https://gitee.com/openeuler/kernel                 | 已认领  |
 | kernel-portal          | https://gitee.com/openeuler/kernel-portal          |        |
-| ksc-defender           | https://gitee.com/openeuler/ksc-defender           |        |
+| ksc-defender           | https://gitee.com/openeuler/ksc-defender           |Douber123|
 | kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
 | lcr                    | https://gitee.com/openeuler/lcr                    |        |
