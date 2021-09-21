@@ -55,8 +55,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder |        |
 | abichecker             | https://gitee.com/openeuler/abichecker             |Douber123|
 | anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
-| android-emulator       | https://gitee.com/openeuler/android-emulator       |        |
-| api-guarder            | https://gitee.com/openeuler/api-guarder            |        |
+| android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55|
+| api-guarder            | https://gitee.com/openeuler/api-guarder            |water-fish55|
 | async-libfuse          | https://gitee.com/openeuler/async-libfuse          |        |
 | attest-tools           | https://gitee.com/openeuler/attest-tools           | 已认领  |
 | authz                  | https://gitee.com/openeuler/authz                  |        |
