@@ -48,11 +48,11 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 
 | Repo                   | Repo Link                                          | 贡献者 |
 | ---------------------- | -------------------------------------------------- | ------ |
-| A-Ops                  | https://gitee.com/openeuler/A-Ops                  |        |
+| A-Ops                  | https://gitee.com/openeuler/A-Ops                  | xiaoming      |
 | A-Tune                 | https://gitee.com/openeuler/A-Tune                 | 已认领  |
 | A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       | 已认领  |
 | A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              | 已认领  |
-| aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder |        |
+| aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder | xiaoming       |
 | abichecker             | https://gitee.com/openeuler/abichecker             |Douber123|
 | anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
 | android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55-empty|
@@ -65,7 +65,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | avocado-vt             | https://gitee.com/openeuler/avocado-vt             | 已认领  |
 | AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              | 已认领  |
 | bgmprovider            | https://gitee.com/openeuler/bgmprovider            |water-fish55-empty|
-| bioinformatics         | https://gitee.com/openeuler/bioinformatics         |water-fish55-empty|
+| bioinformatics         | https://gitee.com/openeuler/bioinformatics         |xiaoming|
 | bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领  |
 | bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领  |
 | bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领  |
