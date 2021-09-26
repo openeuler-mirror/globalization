@@ -173,9 +173,9 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | redf                   | https://gitee.com/openeuler/redf                   |        |
 | release-management     | https://gitee.com/openeuler/release-management     |        |
 | release-tools          | https://gitee.com/openeuler/release-tools          |        |
-| RISC-V                 | https://gitee.com/openeuler/RISC-V                 |        |
-| rockchip               | https://gitee.com/openeuler/rockchip               |        |
-| rockchip-kernel        | https://gitee.com/openeuler/rockchip-kernel        |        |
+| RISC-V                 | https://gitee.com/openeuler/RISC-V                 | 尘世小顽童 |
+| rockchip               | https://gitee.com/openeuler/rockchip               | 尘世小顽童 |
+| rockchip-kernel        | https://gitee.com/openeuler/rockchip-kernel        | 尘世小顽童 |
 | ros                    | https://gitee.com/openeuler/ros                    |        |
 | rubik                  | https://gitee.com/openeuler/rubik                  |        |
 | rubyporter             | https://gitee.com/openeuler/rubyporter             |        |
