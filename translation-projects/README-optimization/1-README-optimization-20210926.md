@@ -55,29 +55,29 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder |        |
 | abichecker             | https://gitee.com/openeuler/abichecker             |Douber123|
 | anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
-| android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55|
-| api-guarder            | https://gitee.com/openeuler/api-guarder            |water-fish55|
-| async-libfuse          | https://gitee.com/openeuler/async-libfuse          |        |
+| android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55-empty|
+| api-guarder            | https://gitee.com/openeuler/api-guarder            |water-fish55-empty|
+| async-libfuse          | https://gitee.com/openeuler/async-libfuse          |water-fish55-empty|
 | attest-tools           | https://gitee.com/openeuler/attest-tools           | 已认领  |
-| authz                  | https://gitee.com/openeuler/authz                  |        |
+| authz                  | https://gitee.com/openeuler/authz                  |water-fish55-empty|
 | auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            | 已认领  |
 | avocado                | https://gitee.com/openeuler/avocado                | 已认领  |
 | avocado-vt             | https://gitee.com/openeuler/avocado-vt             | 已认领  |
 | AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              | 已认领  |
-| bgmprovider            | https://gitee.com/openeuler/bgmprovider            |        |
-| bioinformatics         | https://gitee.com/openeuler/bioinformatics         |        |
+| bgmprovider            | https://gitee.com/openeuler/bgmprovider            |water-fish55-empty|
+| bioinformatics         | https://gitee.com/openeuler/bioinformatics         |water-fish55-empty|
 | bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领  |
 | bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领  |
 | bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领  |
-| blesschess             | https://gitee.com/openeuler/blesschess             |        |
+| blesschess             | https://gitee.com/openeuler/blesschess             |water-fish55|
 | ci-bot                 | https://gitee.com/openeuler/ci-bot                 | 已认领  |
 | clibcni                | https://gitee.com/openeuler/clibcni                | 已认领  |
 | cloudnative            | https://gitee.com/openeuler/cloudnative            | 已认领  |
 | community              | https://gitee.com/openeuler/community              | 已认领  |
 | community-issue        | https://gitee.com/openeuler/community-issue        | 已认领  |
 | compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领  |
-| compat-winapp          | https://gitee.com/openeuler/compat-winapp          |        |
-| compiler-test          | https://gitee.com/openeuler/compiler-test          |        |
+| compat-winapp          | https://gitee.com/openeuler/compat-winapp          |water-fish55|
+| compiler-test          | https://gitee.com/openeuler/compiler-test          |water-fish55|
 | compliance             | https://gitee.com/openeuler/compliance             |        |
 | container-test         | https://gitee.com/openeuler/container-test         |        |
 | custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |        |
