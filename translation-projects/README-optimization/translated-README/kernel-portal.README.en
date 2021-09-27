@@ -1,0 +1,67 @@
+1 Code Download
+
+---
+
+    git clone git@gitee.com:openeuler/kernel-portal.git
+    git submodule update --init --recursive
+
+    cd themes/mainroad
+    git checkout master
+
+2 Local Debugging
+
+---
+
+The HTML files generated after executing hugo are all stored in the public directory. 
+
+    hugo
+
+Redeploy the gitee page after submitting the code and public directory.
+
+3 Hugo Directory Structure
+
+---
+
+  Directory  	Description                             
+  archetypes 	Includes the content type and generates the content configuration automatically when creating new content
+  content    	Contains the contents of the website. All the contents are written in markdown format. Our blog posts are stored in the post directory
+  layouts    	Template files of the website are stored in this directory. Determines how the contents are displayed
+  static     	Includes static resources such as images and CSS and JS files
+  themes     	Themes are stored in this directroy     
+  config.toml	Main configuration file of the website  
+
+All the markdown files that are supposed to be posted in the blog are stored in the content/post directory based on the year/month (content/post/YEAR/MONTH ).
+
+Images are stored in the statci/img directory whose structure is simliar to that of the blog.
+
+4 Publishing a New Post
+
+---
+
+Write the category of the blog post. It is suggested that one tag or multiple tags are created to label the post. 
+---
+
+title: openEuler kernel Specifications for incorporating patches
+date: "2021-03-01"
+author: openEuler kernel SIG
+thumbnail:
+
+categories:
+  - "Development guide"
+tags:
+  - "openEuler"
+  - "Document"
+
+# thumbnail: "img/placeholder.jpg" # Thumbnail image
+# lead: "Example lead - highlighted near the title" # Lead text
+comments: false # Enable Disqus comments for specific page
+authorbox: true # Enable authorbox for specific page
+pager: true # Enable pager navigation (prev/next) for specific page
+toc: true # Enable Table of Contents for specific page
+mathjax: true # Enable MathJax for specific page
+sidebar: "right" # Enable sidebar (on the right side) per page
+widgets: # Enable sidebar widgets in given order per page
+  - "search"
+  - "recent"
+  - "taglist"
+---
