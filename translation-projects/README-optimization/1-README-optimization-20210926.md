@@ -205,8 +205,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | website                | https://gitee.com/openeuler/website                |        |
 | website-v2             | https://gitee.com/openeuler/website-v2             |        |
 | wine-app               | https://gitee.com/openeuler/wine-app               |        |
-| wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         |        |
-| wsl                    | https://gitee.com/openeuler/wsl                    |        |
-| X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            |        |
+| wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
+| wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
+| X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            | 尘世小顽童 |
 | xenomai                | https://gitee.com/openeuler/xenomai                |        |
 | xmlpull                | https://gitee.com/openeuler/xmlpull                |        |
