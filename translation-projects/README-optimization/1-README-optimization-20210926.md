@@ -208,5 +208,5 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
 | wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
 | X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            | 尘世小顽童 |
-| xenomai                | https://gitee.com/openeuler/xenomai                |        |
-| xmlpull                | https://gitee.com/openeuler/xmlpull                |        |
+| xenomai                | https://gitee.com/openeuler/xenomai                | 阿里斯开扇 |
+| xmlpull                | https://gitee.com/openeuler/xmlpull                | 阿里斯开扇 |
