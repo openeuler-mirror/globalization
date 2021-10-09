@@ -165,8 +165,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | prefetch_tuning        | https://gitee.com/openeuler/prefetch_tuning        |        |
 | process1               | https://gitee.com/openeuler/process1               |        |
 | pyporter               | https://gitee.com/openeuler/pyporter               |        |
-| QA                     | https://gitee.com/openeuler/QA                     |        |
-| qemu                   | https://gitee.com/openeuler/qemu                   |        |
+| QA                     | https://gitee.com/openeuler/QA                     | 尘世小顽童 |
+| qemu                   | https://gitee.com/openeuler/qemu                   | 尘世小顽童 |
 | raspberrypi            | https://gitee.com/openeuler/raspberrypi            |        |
 | raspberrypi-build      | https://gitee.com/openeuler/raspberrypi-build      |        |
 | raspberrypi-kernel     | https://gitee.com/openeuler/raspberrypi-kernel     |        |
