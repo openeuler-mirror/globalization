@@ -120,18 +120,18 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
 | lcr                    | https://gitee.com/openeuler/lcr                    |        |
-| lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |        |
+| lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |yalin7        |
 | libboundscheck         | https://gitee.com/openeuler/libboundscheck         |Douber123        |
 | libcareplus            | https://gitee.com/openeuler/libcareplus            |Douber123        |
 | libkae                 | https://gitee.com/openeuler/libkae                 |        |
 | libvirt                | https://gitee.com/openeuler/libvirt                |Douber123        |
 | libwd                  | https://gitee.com/openeuler/libwd                  |        |
-| lxcfs-tools            | https://gitee.com/openeuler/lxcfs-tools            |        |
-| marketing              | https://gitee.com/openeuler/marketing              |        |
-| mate-desktop           | https://gitee.com/openeuler/mate-desktop           |        |
+| lxcfs-tools            | https://gitee.com/openeuler/lxcfs-tools            |yalin7        |
+| marketing              | https://gitee.com/openeuler/marketing              |yalin7        |
+| mate-desktop           | https://gitee.com/openeuler/mate-desktop           |yalin7        |
 | memory-scan            | https://gitee.com/openeuler/memory-scan            |Douber123        |
-| memwatch               | https://gitee.com/openeuler/memwatch               |        |
-| migration-assistant    | https://gitee.com/openeuler/migration-assistant    |        |
+| memwatch               | https://gitee.com/openeuler/memwatch               |yalin7        |
+| migration-assistant    | https://gitee.com/openeuler/migration-assistant    |yalin7        |
 | mugen                  | https://gitee.com/openeuler/mugen                  |Douber123        |
 | mysql                  | https://gitee.com/openeuler/mysql                  |        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
