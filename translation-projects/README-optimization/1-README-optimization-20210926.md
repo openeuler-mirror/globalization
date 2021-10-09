@@ -69,7 +69,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领  |
 | bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领  |
 | bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领  |
-| blesschess             | https://gitee.com/openeuler/blesschess             |water-fish55|
+| blesschess             | https://gitee.com/openeuler/blesschess             |water-fish55-empty|
 | ci-bot                 | https://gitee.com/openeuler/ci-bot                 | 已认领  |
 | clibcni                | https://gitee.com/openeuler/clibcni                | 已认领  |
 | cloudnative            | https://gitee.com/openeuler/cloudnative            | 已认领  |
@@ -77,7 +77,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | community-issue        | https://gitee.com/openeuler/community-issue        | 已认领  |
 | compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领  |
 | compat-winapp          | https://gitee.com/openeuler/compat-winapp          |water-fish55|
-| compiler-test          | https://gitee.com/openeuler/compiler-test          |water-fish55|
+| compiler-test          | https://gitee.com/openeuler/compiler-test          |water-fish55-empty|
 | compliance             | https://gitee.com/openeuler/compliance             |xiaoming       |
 | container-test         | https://gitee.com/openeuler/container-test         |xiaoming-empty        |
 | custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |xiaoming        |
@@ -119,11 +119,11 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | ksc-defender           | https://gitee.com/openeuler/ksc-defender           |Douber123|
 | kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
-| lcr                    | https://gitee.com/openeuler/lcr                    |        |
+| lcr                    | https://gitee.com/openeuler/lcr                    |water-fish55|
 | lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |yalin7        |
 | libboundscheck         | https://gitee.com/openeuler/libboundscheck         |Douber123        |
 | libcareplus            | https://gitee.com/openeuler/libcareplus            |Douber123        |
-| libkae                 | https://gitee.com/openeuler/libkae                 |        |
+| libkae                 | https://gitee.com/openeuler/libkae                 |water-fish55|
 | libvirt                | https://gitee.com/openeuler/libvirt                |Douber123        |
 | libwd                  | https://gitee.com/openeuler/libwd                  |        |
 | lxcfs-tools            | https://gitee.com/openeuler/lxcfs-tools            |yalin7        |
