@@ -34,7 +34,7 @@ openEuler当前共有162个仓库，各仓库README文件统计数据如下：
 
   - **缺少README或者README为空模板**的仓库：可以选择补充中文或者英文README，或者同时补充中英文。关于openEuler README写作指南，请参考[如何写作README](https://gitee.com/openeuler/globalization/blob/master/translation-projects/README-optimization/how-to-write-a-README.MD)。
 
-README文件优化完成后，请参考[openEuler G11N贡献指南](https://gitee.com/openeuler/globalization/blob/master/openeuler-g11n-contribution-guide.md)，将变更点推送到对应仓库，完成当次贡献。
+README文件优化完成后，请参考[openEuler G11N贡献指南](https://gitee.com/openeuler/globalization/blob/master/openeuler-g11n-contribution-guide.md)，将变更点推送到对应仓库，完成当次贡献。详细操作步骤请参考[openEuler G11N 解锁全球化视频](https://www.bilibili.com/video/BV1DU4y1A7vB?from=search&seid=9053854549530573086&spm_id_from=333.337.0.0)。
 
 ## When
 
@@ -115,7 +115,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | kata_integration       | https://gitee.com/openeuler/kata_integration       | 已认领  |
 | kbox                   | https://gitee.com/openeuler/kbox                   |xiaoming        |
 | kernel                 | https://gitee.com/openeuler/kernel                 | 已认领  |
-| kernel-portal          | https://gitee.com/openeuler/kernel-portal          |xiaoming        |
+| kernel-portal          | https://gitee.com/openeuler/kernel-portal          |Anitazheng|
 | ksc-defender           | https://gitee.com/openeuler/ksc-defender           |Douber123|
 | kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
@@ -133,15 +133,15 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | memwatch               | https://gitee.com/openeuler/memwatch               |yalin7        |
 | migration-assistant    | https://gitee.com/openeuler/migration-assistant    |yalin7        |
 | mugen                  | https://gitee.com/openeuler/mugen                  |Douber123        |
-| mysql                  | https://gitee.com/openeuler/mysql                  |        |
+| mysql                  | https://gitee.com/openeuler/mysql                  |cdxiaohu        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
 | nvwa                   | https://gitee.com/openeuler/nvwa                   | 已认领  |
 | oec-application        | https://gitee.com/openeuler/oec-application        |tienbon      |
 | oec-hardware           | https://gitee.com/openeuler/oec-hardware           |        |
-| oemaker                | https://gitee.com/openeuler/oemaker                |        |
+| oemaker                | https://gitee.com/openeuler/oemaker                |cdxiaohu        |
 | openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |Douber123        |
 | openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |tienbon    |
-| openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |        |
+| openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |cdxiaohu        |
 | openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          |        |
 | openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        |        |
 | openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |tienbon        |
@@ -190,20 +190,20 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | sonic-linux-kernel     | https://gitee.com/openeuler/sonic-linux-kernel     |        |
 | stratovirt             | https://gitee.com/openeuler/stratovirt             |        |
 | sync-bot               | https://gitee.com/openeuler/sync-bot               |        |
-| syscontainer-tools     | https://gitee.com/openeuler/syscontainer-tools     |        |
+| syscontainer-tools     | https://gitee.com/openeuler/syscontainer-tools     |cdxiaohu        |
 | sysmonitor             | https://gitee.com/openeuler/sysmonitor             |        |
 | tarsier                | https://gitee.com/openeuler/tarsier                |        |
 | test-tools             | https://gitee.com/openeuler/test-tools             |        |
 | tool-collections       | https://gitee.com/openeuler/tool-collections       |        |
-| tp-libvirt             | https://gitee.com/openeuler/tp-libvirt             |        |
-| tp-qemu                | https://gitee.com/openeuler/tp-qemu                |        |
+| tp-libvirt             | https://gitee.com/openeuler/tp-libvirt             |cdxiaohu        |
+| tp-qemu                | https://gitee.com/openeuler/tp-qemu                |cdxiaohu        |
 | trucker                | https://gitee.com/openeuler/trucker                |        |
 | user-committee         | https://gitee.com/openeuler/user-committee         |        |
-| vmtop                  | https://gitee.com/openeuler/vmtop                  |        |
+| vmtop                  | https://gitee.com/openeuler/vmtop                  |cdxiaohu        |
 | wayca-scheduler        | https://gitee.com/openeuler/wayca-scheduler        |        |
 | wayca-scheduler-bench  | https://gitee.com/openeuler/wayca-scheduler-bench  |        |
-| website                | https://gitee.com/openeuler/website                |        |
-| website-v2             | https://gitee.com/openeuler/website-v2             |        |
+| website                | https://gitee.com/openeuler/website                |cdxiaohu        |
+| website-v2             | https://gitee.com/openeuler/website-v2             |cdxiaohu        |
 | wine-app               | https://gitee.com/openeuler/wine-app               |        |
 | wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
 | wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
