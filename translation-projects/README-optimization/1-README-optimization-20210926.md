@@ -78,29 +78,29 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领  |
 | compat-winapp          | https://gitee.com/openeuler/compat-winapp          |water-fish55|
 | compiler-test          | https://gitee.com/openeuler/compiler-test          |water-fish55|
-| compliance             | https://gitee.com/openeuler/compliance             |        |
-| container-test         | https://gitee.com/openeuler/container-test         |        |
-| custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |        |
-| cve-manager            | https://gitee.com/openeuler/cve-manager            |        |
+| compliance             | https://gitee.com/openeuler/compliance             |xiaoming       |
+| container-test         | https://gitee.com/openeuler/container-test         |xiaoming-empty        |
+| custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |xiaoming        |
+| cve-manager            | https://gitee.com/openeuler/cve-manager            |xiaoming        |
 | digest-list-tools      | https://gitee.com/openeuler/digest-list-tools      | 已认领  |
 | docs                   | https://gitee.com/openeuler/docs                   | 已认领  |
-| duoyibu-ai             | https://gitee.com/openeuler/duoyibu-ai             |        |
-| DyscheOS-kernel        | https://gitee.com/openeuler/DyscheOS-kernel        |        |
+| duoyibu-ai             | https://gitee.com/openeuler/duoyibu-ai             |xiaoming        |
+| DyscheOS-kernel        | https://gitee.com/openeuler/DyscheOS-kernel        |xiaoming        |
 | DyscheOS-utils         | https://gitee.com/openeuler/DyscheOS-utils         | 已认领  |
-| easy-checker           | https://gitee.com/openeuler/easy-checker           |        |
+| easy-checker           | https://gitee.com/openeuler/easy-checker           |xiaoming        |
 | eggo                   | https://gitee.com/openeuler/eggo                   | 已认领  |
 | embedded               | https://gitee.com/openeuler/embedded               | 已认领  |
 | etmem                  | https://gitee.com/openeuler/etmem                  | 已认领  |
 | EulerRobot             | https://gitee.com/openeuler/EulerRobot             | 已认领  |
 | G11N                   | https://gitee.com/openeuler/G11N                   | 已认领  |
 | gazelle-cni            | https://gitee.com/openeuler/gazelle-cni            | 已认领  |
-| gcc                    | https://gitee.com/openeuler/gcc                    |        |
+| gcc                    | https://gitee.com/openeuler/gcc                    |xiaoming        |
 | geo-coding             | https://gitee.com/openeuler/geo-coding             | 已认领  |
-| gitbook-theme-hugo     | https://gitee.com/openeuler/gitbook-theme-hugo     |        |
+| gitbook-theme-hugo     | https://gitee.com/openeuler/gitbook-theme-hugo     |xiaoming        |
 | globalization          | https://gitee.com/openeuler/globalization          | 已认领  |
 | go-gitee               | https://gitee.com/openeuler/go-gitee               | 已认领  |
 | ha-api                 | https://gitee.com/openeuler/ha-api                 | 已认领  |
-| ha-web                 | https://gitee.com/openeuler/ha-web                 |        |
+| ha-web                 | https://gitee.com/openeuler/ha-web                 |xiaoming        |
 | hpc                    | https://gitee.com/openeuler/hpc                    | 已认领  |
 | infrastructure         | https://gitee.com/openeuler/infrastructure         | 已认领  |
 | integration-test       | https://gitee.com/openeuler/integration-test       | 已认领  |
@@ -110,12 +110,12 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | iSulad                 | https://gitee.com/openeuler/iSulad                 | 已认领  |
 | iSulad-img             | https://gitee.com/openeuler/iSulad-img             | 已认领  |
 | itrustee_sdk           | https://gitee.com/openeuler/itrustee_sdk           | 已认领  |
-| Java-Packages          | https://gitee.com/openeuler/Java-Packages          |        |
+| Java-Packages          | https://gitee.com/openeuler/Java-Packages          |xiaoming        |
 | kae_driver             | https://gitee.com/openeuler/kae_driver             | 已认领  |
 | kata_integration       | https://gitee.com/openeuler/kata_integration       | 已认领  |
-| kbox                   | https://gitee.com/openeuler/kbox                   |        |
+| kbox                   | https://gitee.com/openeuler/kbox                   |xiaoming        |
 | kernel                 | https://gitee.com/openeuler/kernel                 | 已认领  |
-| kernel-portal          | https://gitee.com/openeuler/kernel-portal          |        |
+| kernel-portal          | https://gitee.com/openeuler/kernel-portal          |xiaoming        |
 | ksc-defender           | https://gitee.com/openeuler/ksc-defender           |Douber123|
 | kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
