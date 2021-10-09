@@ -121,37 +121,37 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
 | lcr                    | https://gitee.com/openeuler/lcr                    |        |
 | lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |        |
-| libboundscheck         | https://gitee.com/openeuler/libboundscheck         |        |
-| libcareplus            | https://gitee.com/openeuler/libcareplus            |        |
+| libboundscheck         | https://gitee.com/openeuler/libboundscheck         |Douber123        |
+| libcareplus            | https://gitee.com/openeuler/libcareplus            |Douber123        |
 | libkae                 | https://gitee.com/openeuler/libkae                 |        |
-| libvirt                | https://gitee.com/openeuler/libvirt                |        |
+| libvirt                | https://gitee.com/openeuler/libvirt                |Douber123        |
 | libwd                  | https://gitee.com/openeuler/libwd                  |        |
 | lxcfs-tools            | https://gitee.com/openeuler/lxcfs-tools            |        |
 | marketing              | https://gitee.com/openeuler/marketing              |        |
 | mate-desktop           | https://gitee.com/openeuler/mate-desktop           |        |
-| memory-scan            | https://gitee.com/openeuler/memory-scan            |        |
+| memory-scan            | https://gitee.com/openeuler/memory-scan            |Douber123        |
 | memwatch               | https://gitee.com/openeuler/memwatch               |        |
 | migration-assistant    | https://gitee.com/openeuler/migration-assistant    |        |
-| mugen                  | https://gitee.com/openeuler/mugen                  |        |
+| mugen                  | https://gitee.com/openeuler/mugen                  |Douber123        |
 | mysql                  | https://gitee.com/openeuler/mysql                  |        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
 | nvwa                   | https://gitee.com/openeuler/nvwa                   | 已认领  |
 | oec-application        | https://gitee.com/openeuler/oec-application        |        |
 | oec-hardware           | https://gitee.com/openeuler/oec-hardware           |        |
 | oemaker                | https://gitee.com/openeuler/oemaker                |        |
-| openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |        |
+| openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |Douber123        |
 | openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |        |
 | openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |        |
 | openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          |        |
 | openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        |        |
 | openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |        |
 | openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     |        |
-| openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |        |
+| openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |Douber123        |
 | openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   |        |
 | openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | 已认领  |
 | openjfx8               | https://gitee.com/openeuler/openjfx8               |        |
 | openRSO                | https://gitee.com/openeuler/openRSO                |        |
-| openstack              | https://gitee.com/openeuler/openstack              |        |
+| openstack              | https://gitee.com/openeuler/openstack              |Douber123        |
 | operator-manager       | https://gitee.com/openeuler/operator-manager       | 已认领  |
 | pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |        |
 | package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |        |
