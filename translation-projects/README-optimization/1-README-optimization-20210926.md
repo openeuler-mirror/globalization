@@ -165,8 +165,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | prefetch_tuning        | https://gitee.com/openeuler/prefetch_tuning        |        |
 | process1               | https://gitee.com/openeuler/process1               |        |
 | pyporter               | https://gitee.com/openeuler/pyporter               |        |
-| QA                     | https://gitee.com/openeuler/QA                     |        |
-| qemu                   | https://gitee.com/openeuler/qemu                   |        |
+| QA                     | https://gitee.com/openeuler/QA                     | 尘世小顽童 |
+| qemu                   | https://gitee.com/openeuler/qemu                   | 尘世小顽童 |
 | raspberrypi            | https://gitee.com/openeuler/raspberrypi            |        |
 | raspberrypi-build      | https://gitee.com/openeuler/raspberrypi-build      |        |
 | raspberrypi-kernel     | https://gitee.com/openeuler/raspberrypi-kernel     |        |
@@ -205,8 +205,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | website                | https://gitee.com/openeuler/website                |        |
 | website-v2             | https://gitee.com/openeuler/website-v2             |        |
 | wine-app               | https://gitee.com/openeuler/wine-app               |        |
-| wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         |        |
-| wsl                    | https://gitee.com/openeuler/wsl                    |        |
-| X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            |        |
+| wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
+| wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
+| X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            | 尘世小顽童 |
 | xenomai                | https://gitee.com/openeuler/xenomai                |        |
 | xmlpull                | https://gitee.com/openeuler/xmlpull                |        |
