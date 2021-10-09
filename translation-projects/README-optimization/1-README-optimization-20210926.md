@@ -136,15 +136,15 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | mysql                  | https://gitee.com/openeuler/mysql                  |        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
 | nvwa                   | https://gitee.com/openeuler/nvwa                   | 已认领  |
-| oec-application        | https://gitee.com/openeuler/oec-application        |        |
+| oec-application        | https://gitee.com/openeuler/oec-application        |tienbon      |
 | oec-hardware           | https://gitee.com/openeuler/oec-hardware           |        |
 | oemaker                | https://gitee.com/openeuler/oemaker                |        |
 | openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |Douber123        |
-| openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |        |
+| openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |tienbon    |
 | openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |        |
 | openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          |        |
 | openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        |        |
-| openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |        |
+| openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |tienbon        |
 | openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     |        |
 | openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |Douber123        |
 | openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   |        |
@@ -153,8 +153,8 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | openRSO                | https://gitee.com/openeuler/openRSO                |        |
 | openstack              | https://gitee.com/openeuler/openstack              |Douber123        |
 | operator-manager       | https://gitee.com/openeuler/operator-manager       | 已认领  |
-| pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |        |
-| package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |        |
+| pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |tienbon        |
+| package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |tienbon        |
 | patch-tracking         | https://gitee.com/openeuler/patch-tracking         |        |
 | perlporter             | https://gitee.com/openeuler/perlporter             |        |
 | PilotGo                | https://gitee.com/openeuler/PilotGo                |        |
