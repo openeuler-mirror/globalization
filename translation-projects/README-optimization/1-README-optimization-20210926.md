@@ -49,57 +49,57 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | Repo                   | Repo Link                                          | 贡献者 |
 | ---------------------- | -------------------------------------------------- | ------ |
 | A-Ops                  | https://gitee.com/openeuler/A-Ops                  | xiaoming      |
-| A-Tune                 | https://gitee.com/openeuler/A-Tune                 | 已认领  |
-| A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       | 已认领  |
-| A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              | 已认领  |
+| A-Tune                 | https://gitee.com/openeuler/A-Tune                 | 已认领-CY  |
+| A-Tune-Collector       | https://gitee.com/openeuler/A-Tune-Collector       | 已认领-CY  |
+| A-Tune-UI              | https://gitee.com/openeuler/A-Tune-UI              | 已认领-CY  |
 | aarch32-rootfs-builder | https://gitee.com/openeuler/aarch32-rootfs-builder | xiaoming       |
 | abichecker             | https://gitee.com/openeuler/abichecker             |Douber123|
-| anbox                  | https://gitee.com/openeuler/anbox                  | 已认领  |
+| anbox                  | https://gitee.com/openeuler/anbox                  | 已认领-CY  |
 | android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55-empty|
 | api-guarder            | https://gitee.com/openeuler/api-guarder            |water-fish55-empty|
 | async-libfuse          | https://gitee.com/openeuler/async-libfuse          |water-fish55-empty|
 | attest-tools           | https://gitee.com/openeuler/attest-tools           | 已认领  |
 | authz                  | https://gitee.com/openeuler/authz                  |water-fish55-empty|
-| auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            | 已认领  |
-| avocado                | https://gitee.com/openeuler/avocado                | 已认领  |
-| avocado-vt             | https://gitee.com/openeuler/avocado-vt             | 已认领  |
-| AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              | 已认领  |
+| auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            | 已认领-CY  |
+| avocado                | https://gitee.com/openeuler/avocado                | 已认领-CY  |
+| avocado-vt             | https://gitee.com/openeuler/avocado-vt             | 已认领-CY  |
+| AvxToNeon              | https://gitee.com/openeuler/AvxToNeon              | 已认领-CY  |
 | bgmprovider            | https://gitee.com/openeuler/bgmprovider            |water-fish55-empty|
 | bioinformatics         | https://gitee.com/openeuler/bioinformatics         |xiaoming|
-| bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领  |
-| bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领  |
-| bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领  |
+| bishengjdk-11          | https://gitee.com/openeuler/bishengjdk-11          | 已认领-CY  |
+| bishengjdk-8           | https://gitee.com/openeuler/bishengjdk-8           | 已认领-CY  |
+| bishengjdk-riscv       | https://gitee.com/openeuler/bishengjdk-riscv       | 已认领-CY  |
 | blesschess             | https://gitee.com/openeuler/blesschess             |water-fish55-empty|
-| ci-bot                 | https://gitee.com/openeuler/ci-bot                 | 已认领  |
-| clibcni                | https://gitee.com/openeuler/clibcni                | 已认领  |
-| cloudnative            | https://gitee.com/openeuler/cloudnative            | 已认领  |
-| community              | https://gitee.com/openeuler/community              | 已认领  |
-| community-issue        | https://gitee.com/openeuler/community-issue        | 已认领  |
-| compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领  |
+| ci-bot                 | https://gitee.com/openeuler/ci-bot                 | 已认领-CY  |
+| clibcni                | https://gitee.com/openeuler/clibcni                | 已认领-CY  |
+| cloudnative            | https://gitee.com/openeuler/cloudnative            | 已认领-CY  |
+| community              | https://gitee.com/openeuler/community              | 已认领-CY  |
+| community-issue        | https://gitee.com/openeuler/community-issue        | 已认领-CY  |
+| compass-ci             | https://gitee.com/openeuler/compass-ci             | 已认领-CY  |
 | compat-winapp          | https://gitee.com/openeuler/compat-winapp          |water-fish55|
 | compiler-test          | https://gitee.com/openeuler/compiler-test          |water-fish55-empty|
 | compliance             | https://gitee.com/openeuler/compliance             |xiaoming       |
 | container-test         | https://gitee.com/openeuler/container-test         |xiaoming-empty        |
 | custom_build_tool      | https://gitee.com/openeuler/custom_build_tool      |xiaoming        |
 | cve-manager            | https://gitee.com/openeuler/cve-manager            |xiaoming        |
-| digest-list-tools      | https://gitee.com/openeuler/digest-list-tools      | 已认领  |
-| docs                   | https://gitee.com/openeuler/docs                   | 已认领  |
+| digest-list-tools      | https://gitee.com/openeuler/digest-list-tools      | 已认领-CY  |
+| docs                   | https://gitee.com/openeuler/docs                   | 已认领-CY  |
 | duoyibu-ai             | https://gitee.com/openeuler/duoyibu-ai             |xiaoming        |
 | DyscheOS-kernel        | https://gitee.com/openeuler/DyscheOS-kernel        |xiaoming        |
-| DyscheOS-utils         | https://gitee.com/openeuler/DyscheOS-utils         | 已认领  |
+| DyscheOS-utils         | https://gitee.com/openeuler/DyscheOS-utils         | 已认领-CY  |
 | easy-checker           | https://gitee.com/openeuler/easy-checker           |xiaoming        |
-| eggo                   | https://gitee.com/openeuler/eggo                   | 已认领  |
-| embedded               | https://gitee.com/openeuler/embedded               | 已认领  |
-| etmem                  | https://gitee.com/openeuler/etmem                  | 已认领  |
-| EulerRobot             | https://gitee.com/openeuler/EulerRobot             | 已认领  |
-| G11N                   | https://gitee.com/openeuler/G11N                   | 已认领  |
-| gazelle-cni            | https://gitee.com/openeuler/gazelle-cni            | 已认领  |
+| eggo                   | https://gitee.com/openeuler/eggo                   | 已认领-CY  |
+| embedded               | https://gitee.com/openeuler/embedded               | 已认领-CY  |
+| etmem                  | https://gitee.com/openeuler/etmem                  | 已认领-CY  |
+| EulerRobot             | https://gitee.com/openeuler/EulerRobot             | 已认领-CY  |
+| G11N                   | https://gitee.com/openeuler/G11N                   | 已认领-CY  |
+| gazelle-cni            | https://gitee.com/openeuler/gazelle-cni            | 已认领-CY  |
 | gcc                    | https://gitee.com/openeuler/gcc                    |xiaoming        |
-| geo-coding             | https://gitee.com/openeuler/geo-coding             | 已认领  |
+| geo-coding             | https://gitee.com/openeuler/geo-coding             | 已认领-CY  |
 | gitbook-theme-hugo     | https://gitee.com/openeuler/gitbook-theme-hugo     |xiaoming        |
-| globalization          | https://gitee.com/openeuler/globalization          | 已认领  |
-| go-gitee               | https://gitee.com/openeuler/go-gitee               | 已认领  |
-| ha-api                 | https://gitee.com/openeuler/ha-api                 | 已认领  |
+| globalization          | https://gitee.com/openeuler/globalization          | 已认领-CY  |
+| go-gitee               | https://gitee.com/openeuler/go-gitee               | 已认领-CY  |
+| ha-api                 | https://gitee.com/openeuler/ha-api                 | 已认领-CY  |
 | ha-web                 | https://gitee.com/openeuler/ha-web                 |xiaoming        |
 | hpc                    | https://gitee.com/openeuler/hpc                    | 已认领  |
 | infrastructure         | https://gitee.com/openeuler/infrastructure         | 已认领  |
