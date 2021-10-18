@@ -156,28 +156,28 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |tienbon        |
 | package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |tienbon        |
 | patch-tracking         | https://gitee.com/openeuler/patch-tracking         |        |
-| perlporter             | https://gitee.com/openeuler/perlporter             |        |
-| PilotGo                | https://gitee.com/openeuler/PilotGo                |        |
-| PilotGo-plugins        | https://gitee.com/openeuler/PilotGo-plugins        |        |
-| PilotGo-web            | https://gitee.com/openeuler/PilotGo-web            |        |
-| pkgporter              | https://gitee.com/openeuler/pkgporter              |        |
+| perlporter             | https://gitee.com/openeuler/perlporter             |Lavie        |
+| PilotGo                | https://gitee.com/openeuler/PilotGo                |Lavie        |
+| PilotGo-plugins        | https://gitee.com/openeuler/PilotGo-plugins        |Lavie        |
+| PilotGo-web            | https://gitee.com/openeuler/PilotGo-web            |Lavie        |
+| pkgporter              | https://gitee.com/openeuler/pkgporter              |Elena        |
 | pkgship                | https://gitee.com/openeuler/pkgship                |        |
-| prefetch_tuning        | https://gitee.com/openeuler/prefetch_tuning        |        |
+| prefetch_tuning        | https://gitee.com/openeuler/prefetch_tuning        |Elena        |
 | process1               | https://gitee.com/openeuler/process1               |        |
-| pyporter               | https://gitee.com/openeuler/pyporter               |        |
+| pyporter               | https://gitee.com/openeuler/pyporter               |Elena        |
 | QA                     | https://gitee.com/openeuler/QA                     | 尘世小顽童 |
 | qemu                   | https://gitee.com/openeuler/qemu                   | 尘世小顽童 |
 | raspberrypi            | https://gitee.com/openeuler/raspberrypi            |        |
-| raspberrypi-build      | https://gitee.com/openeuler/raspberrypi-build      |        |
+| raspberrypi-build      | https://gitee.com/openeuler/raspberrypi-build      |Elena        |
 | raspberrypi-kernel     | https://gitee.com/openeuler/raspberrypi-kernel     |        |
-| redf                   | https://gitee.com/openeuler/redf                   |        |
-| release-management     | https://gitee.com/openeuler/release-management     |        |
+| redf                   | https://gitee.com/openeuler/redf                   |Lavie        |
+| release-management     | https://gitee.com/openeuler/release-management     |Lavie        |
 | release-tools          | https://gitee.com/openeuler/release-tools          |        |
 | RISC-V                 | https://gitee.com/openeuler/RISC-V                 | 尘世小顽童 |
 | rockchip               | https://gitee.com/openeuler/rockchip               | 尘世小顽童 |
 | rockchip-kernel        | https://gitee.com/openeuler/rockchip-kernel        | 尘世小顽童 |
-| ros                    | https://gitee.com/openeuler/ros                    |        |
-| rubik                  | https://gitee.com/openeuler/rubik                  |        |
+| ros                    | https://gitee.com/openeuler/ros                    |Lavie        |
+| rubik                  | https://gitee.com/openeuler/rubik                  |Lavie        |
 | rubyporter             | https://gitee.com/openeuler/rubyporter             |        |
 | secGear                | https://gitee.com/openeuler/secGear                |        |
 | security-committee     | https://gitee.com/openeuler/security-committee     |        |
