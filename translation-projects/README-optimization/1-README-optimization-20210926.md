@@ -58,7 +58,7 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | android-emulator       | https://gitee.com/openeuler/android-emulator       |water-fish55-empty|
 | api-guarder            | https://gitee.com/openeuler/api-guarder            |water-fish55-empty|
 | async-libfuse          | https://gitee.com/openeuler/async-libfuse          |water-fish55-empty|
-| attest-tools           | https://gitee.com/openeuler/attest-tools           | 已认领  |
+| attest-tools           | https://gitee.com/openeuler/attest-tools           | xiaoming  |
 | authz                  | https://gitee.com/openeuler/authz                  |water-fish55-empty|
 | auto_py2to3            | https://gitee.com/openeuler/auto_py2to3            | 已认领-CY  |
 | avocado                | https://gitee.com/openeuler/avocado                | 已认领-CY  |
@@ -101,31 +101,31 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | go-gitee               | https://gitee.com/openeuler/go-gitee               | 已认领-CY  |
 | ha-api                 | https://gitee.com/openeuler/ha-api                 | 已认领-CY  |
 | ha-web                 | https://gitee.com/openeuler/ha-web                 |xiaoming        |
-| hpc                    | https://gitee.com/openeuler/hpc                    | 已认领  |
-| infrastructure         | https://gitee.com/openeuler/infrastructure         | 已认领  |
-| integration-test       | https://gitee.com/openeuler/integration-test       | 已认领  |
-| isula-build            | https://gitee.com/openeuler/isula-build            | 已认领  |
-| iSula-libutils         | https://gitee.com/openeuler/iSula-libutils         | 已认领  |
-| isula-transform        | https://gitee.com/openeuler/isula-transform        | 已认领  |
-| iSulad                 | https://gitee.com/openeuler/iSulad                 | 已认领  |
-| iSulad-img             | https://gitee.com/openeuler/iSulad-img             | 已认领  |
-| itrustee_sdk           | https://gitee.com/openeuler/itrustee_sdk           | 已认领  |
+| hpc                    | https://gitee.com/openeuler/hpc                    | xiaoming  |
+| infrastructure         | https://gitee.com/openeuler/infrastructure         | xiaoming  |
+| integration-test       | https://gitee.com/openeuler/integration-test       | xiaoming  |
+| isula-build            | https://gitee.com/openeuler/isula-build            | xiaoming  |
+| iSula-libutils         | https://gitee.com/openeuler/iSula-libutils         | xiaoming  |
+| isula-transform        | https://gitee.com/openeuler/isula-transform        | xiaoming  |
+| iSulad                 | https://gitee.com/openeuler/iSulad                 | xiaoming  |
+| iSulad-img             | https://gitee.com/openeuler/iSulad-img             | xiaoming  |
+| itrustee_sdk           | https://gitee.com/openeuler/itrustee_sdk           | Douber123  |
 | Java-Packages          | https://gitee.com/openeuler/Java-Packages          |xiaoming        |
-| kae_driver             | https://gitee.com/openeuler/kae_driver             | 已认领  |
-| kata_integration       | https://gitee.com/openeuler/kata_integration       | 已认领  |
+| kae_driver             | https://gitee.com/openeuler/kae_driver             | Douber123  |
+| kata_integration       | https://gitee.com/openeuler/kata_integration       | Douber123  |
 | kbox                   | https://gitee.com/openeuler/kbox                   |xiaoming        |
-| kernel                 | https://gitee.com/openeuler/kernel                 | 已认领  |
+| kernel                 | https://gitee.com/openeuler/kernel                 | Douber123  |
 | kernel-portal          | https://gitee.com/openeuler/kernel-portal          |Anitazheng|
 | ksc-defender           | https://gitee.com/openeuler/ksc-defender           |Douber123|
-| kubekey                | https://gitee.com/openeuler/kubekey                | 已认领  |
-| kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | 已认领  |
+| kubekey                | https://gitee.com/openeuler/kubekey                | Douber123  |
+| kunpengsecl            | https://gitee.com/openeuler/kunpengsecl            | Douber123 |
 | lcr                    | https://gitee.com/openeuler/lcr                    |water-fish55|
 | lib-shim-v2            | https://gitee.com/openeuler/lib-shim-v2            |yalin7        |
 | libboundscheck         | https://gitee.com/openeuler/libboundscheck         |Douber123        |
 | libcareplus            | https://gitee.com/openeuler/libcareplus            |Douber123        |
 | libkae                 | https://gitee.com/openeuler/libkae                 |water-fish55|
 | libvirt                | https://gitee.com/openeuler/libvirt                |Douber123        |
-| libwd                  | https://gitee.com/openeuler/libwd                  |        |
+| libwd                  | https://gitee.com/openeuler/libwd                  |  Douber123      |
 | lxcfs-tools            | https://gitee.com/openeuler/lxcfs-tools            |yalin7        |
 | marketing              | https://gitee.com/openeuler/marketing              |yalin7        |
 | mate-desktop           | https://gitee.com/openeuler/mate-desktop           |yalin7        |
@@ -134,77 +134,77 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | migration-assistant    | https://gitee.com/openeuler/migration-assistant    |yalin7        |
 | mugen                  | https://gitee.com/openeuler/mugen                  |Douber123        |
 | mysql                  | https://gitee.com/openeuler/mysql                  |cdxiaohu        |
-| nodejsporter           | https://gitee.com/openeuler/nodejsporter           |        |
-| nvwa                   | https://gitee.com/openeuler/nvwa                   | 已认领  |
+| nodejsporter           | https://gitee.com/openeuler/nodejsporter           |   Douber123     |
+| nvwa                   | https://gitee.com/openeuler/nvwa                   | Douber123  |
 | oec-application        | https://gitee.com/openeuler/oec-application        |tienbon      |
-| oec-hardware           | https://gitee.com/openeuler/oec-hardware           |        |
+| oec-hardware           | https://gitee.com/openeuler/oec-hardware           |cdxiaohu |
 | oemaker                | https://gitee.com/openeuler/oemaker                |cdxiaohu        |
 | openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |Douber123        |
 | openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |tienbon    |
 | openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |cdxiaohu        |
-| openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          |        |
-| openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        |        |
+| openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          | cdxiaohu |
+| openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        | cdxiaohu |
 | openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |tienbon        |
-| openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     |        |
+| openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     | cdxiaohu  |
 | openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |Douber123        |
-| openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   |        |
-| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | 已认领  |
-| openjfx8               | https://gitee.com/openeuler/openjfx8               |        |
-| openRSO                | https://gitee.com/openeuler/openRSO                |        |
+| openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   | cdxiaohu  |
+| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | cdxiaohu  |
+| openjfx8               | https://gitee.com/openeuler/openjfx8               | cdxiaohu|
+| openRSO                | https://gitee.com/openeuler/openRSO                | cdxiaohu |
 | openstack              | https://gitee.com/openeuler/openstack              |Douber123        |
-| operator-manager       | https://gitee.com/openeuler/operator-manager       | 已认领  |
+| operator-manager       | https://gitee.com/openeuler/operator-manager       | cdxiaohu  |
 | pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |tienbon        |
 | package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |tienbon        |
-| patch-tracking         | https://gitee.com/openeuler/patch-tracking         |        |
+| patch-tracking         | https://gitee.com/openeuler/patch-tracking         |JasonW |
 | perlporter             | https://gitee.com/openeuler/perlporter             |Lavie        |
 | PilotGo                | https://gitee.com/openeuler/PilotGo                |Lavie        |
 | PilotGo-plugins        | https://gitee.com/openeuler/PilotGo-plugins        |Lavie        |
 | PilotGo-web            | https://gitee.com/openeuler/PilotGo-web            |Lavie        |
 | pkgporter              | https://gitee.com/openeuler/pkgporter              |Elena        |
-| pkgship                | https://gitee.com/openeuler/pkgship                |        |
+| pkgship                | https://gitee.com/openeuler/pkgship                |JasonW|
 | prefetch_tuning        | https://gitee.com/openeuler/prefetch_tuning        |Elena        |
-| process1               | https://gitee.com/openeuler/process1               |        |
+| process1               | https://gitee.com/openeuler/process1               |JasonW  |
 | pyporter               | https://gitee.com/openeuler/pyporter               |Elena        |
 | QA                     | https://gitee.com/openeuler/QA                     | 尘世小顽童 |
 | qemu                   | https://gitee.com/openeuler/qemu                   | 尘世小顽童 |
-| raspberrypi            | https://gitee.com/openeuler/raspberrypi            |        |
+| raspberrypi            | https://gitee.com/openeuler/raspberrypi            |JasonW  |
 | raspberrypi-build      | https://gitee.com/openeuler/raspberrypi-build      |Elena        |
-| raspberrypi-kernel     | https://gitee.com/openeuler/raspberrypi-kernel     |        |
+| raspberrypi-kernel     | https://gitee.com/openeuler/raspberrypi-kernel     |JasonW |
 | redf                   | https://gitee.com/openeuler/redf                   |Lavie        |
 | release-management     | https://gitee.com/openeuler/release-management     |Lavie        |
-| release-tools          | https://gitee.com/openeuler/release-tools          |        |
+| release-tools          | https://gitee.com/openeuler/release-tools          |JasonW  |
 | RISC-V                 | https://gitee.com/openeuler/RISC-V                 | 尘世小顽童 |
 | rockchip               | https://gitee.com/openeuler/rockchip               | 尘世小顽童 |
 | rockchip-kernel        | https://gitee.com/openeuler/rockchip-kernel        | 尘世小顽童 |
 | ros                    | https://gitee.com/openeuler/ros                    |Lavie        |
 | rubik                  | https://gitee.com/openeuler/rubik                  |Lavie        |
-| rubyporter             | https://gitee.com/openeuler/rubyporter             |        |
-| secGear                | https://gitee.com/openeuler/secGear                |        |
-| security-committee     | https://gitee.com/openeuler/security-committee     |        |
-| security-facility      | https://gitee.com/openeuler/security-facility      |        |
-| security-tool          | https://gitee.com/openeuler/security-tool          |        |
-| sig-desktop-apps       | https://gitee.com/openeuler/sig-desktop-apps       |        |
-| sig-Edge               | https://gitee.com/openeuler/sig-Edge               |        |
-| sig-OpenBoard          | https://gitee.com/openeuler/sig-OpenBoard          |        |
-| sig-OSCourse           | https://gitee.com/openeuler/sig-OSCourse           |        |
-| sonic-linux-kernel     | https://gitee.com/openeuler/sonic-linux-kernel     |        |
-| stratovirt             | https://gitee.com/openeuler/stratovirt             |        |
-| sync-bot               | https://gitee.com/openeuler/sync-bot               |        |
+| rubyporter             | https://gitee.com/openeuler/rubyporter             | JasonW  |
+| secGear                | https://gitee.com/openeuler/secGear                | JasonW |
+| security-committee     | https://gitee.com/openeuler/security-committee     | JasonW  |
+| security-facility      | https://gitee.com/openeuler/security-facility      | 小顽童 |
+| security-tool          | https://gitee.com/openeuler/security-tool          | 小顽童 |
+| sig-desktop-apps       | https://gitee.com/openeuler/sig-desktop-apps       | 小顽童   |
+| sig-Edge               | https://gitee.com/openeuler/sig-Edge               | 小顽童       |
+| sig-OpenBoard          | https://gitee.com/openeuler/sig-OpenBoard          |  小顽童      |
+| sig-OSCourse           | https://gitee.com/openeuler/sig-OSCourse           |  小顽童      |
+| sonic-linux-kernel     | https://gitee.com/openeuler/sonic-linux-kernel     |  小顽童      |
+| stratovirt             | https://gitee.com/openeuler/stratovirt             |  小顽童      |
+| sync-bot               | https://gitee.com/openeuler/sync-bot               |   小顽童     |
 | syscontainer-tools     | https://gitee.com/openeuler/syscontainer-tools     |cdxiaohu        |
-| sysmonitor             | https://gitee.com/openeuler/sysmonitor             |        |
-| tarsier                | https://gitee.com/openeuler/tarsier                |        |
-| test-tools             | https://gitee.com/openeuler/test-tools             |        |
-| tool-collections       | https://gitee.com/openeuler/tool-collections       |        |
+| sysmonitor             | https://gitee.com/openeuler/sysmonitor             |Judy01    |
+| tarsier                | https://gitee.com/openeuler/tarsier                |Judy01  |
+| test-tools             | https://gitee.com/openeuler/test-tools             |Judy01  |
+| tool-collections       | https://gitee.com/openeuler/tool-collections       |Judy01|
 | tp-libvirt             | https://gitee.com/openeuler/tp-libvirt             |cdxiaohu        |
 | tp-qemu                | https://gitee.com/openeuler/tp-qemu                |cdxiaohu        |
-| trucker                | https://gitee.com/openeuler/trucker                |        |
-| user-committee         | https://gitee.com/openeuler/user-committee         |        |
+| trucker                | https://gitee.com/openeuler/trucker                |Judy01  |
+| user-committee         | https://gitee.com/openeuler/user-committee         | Judy01  |
 | vmtop                  | https://gitee.com/openeuler/vmtop                  |cdxiaohu        |
-| wayca-scheduler        | https://gitee.com/openeuler/wayca-scheduler        |        |
-| wayca-scheduler-bench  | https://gitee.com/openeuler/wayca-scheduler-bench  |        |
+| wayca-scheduler        | https://gitee.com/openeuler/wayca-scheduler        | Judy01  |
+| wayca-scheduler-bench  | https://gitee.com/openeuler/wayca-scheduler-bench  | Judy01  |
 | website                | https://gitee.com/openeuler/website                |cdxiaohu        |
 | website-v2             | https://gitee.com/openeuler/website-v2             |cdxiaohu        |
-| wine-app               | https://gitee.com/openeuler/wine-app               |        |
+| wine-app               | https://gitee.com/openeuler/wine-app               | Judy01  |
 | wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
 | wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
 | X-diagnosis            | https://gitee.com/openeuler/X-diagnosis            | 尘世小顽童 |
