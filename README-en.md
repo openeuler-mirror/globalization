@@ -19,7 +19,7 @@ Where necessary tools and a complete localization process are available to help 
 We welcome any kinds of contribution
 * Translations
 * i18n and l10n tools
-* g11n test
+* g11n tests
 * Bug fixes
 * Feature additions
 
