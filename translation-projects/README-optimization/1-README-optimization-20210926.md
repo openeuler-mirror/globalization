@@ -133,26 +133,26 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | memwatch               | https://gitee.com/openeuler/memwatch               |yalin7        |
 | migration-assistant    | https://gitee.com/openeuler/migration-assistant    |yalin7        |
 | mugen                  | https://gitee.com/openeuler/mugen                  |Douber123        |
-| mysql                  | https://gitee.com/openeuler/mysql                  |cdxiaohu        |
+| mysql                  | https://gitee.com/openeuler/mysql                  |gomico        |
 | nodejsporter           | https://gitee.com/openeuler/nodejsporter           |   Douber123     |
 | nvwa                   | https://gitee.com/openeuler/nvwa                   | Douber123  |
 | oec-application        | https://gitee.com/openeuler/oec-application        |tienbon      |
-| oec-hardware           | https://gitee.com/openeuler/oec-hardware           |cdxiaohu |
-| oemaker                | https://gitee.com/openeuler/oemaker                |cdxiaohu        |
+| oec-hardware           | https://gitee.com/openeuler/oec-hardware           |gomico |
+| oemaker                | https://gitee.com/openeuler/oemaker                |gomico & hcy1012        |
 | openEuler-Advisor      | https://gitee.com/openeuler/openEuler-Advisor      |Douber123        |
 | openEuler-bootstrap    | https://gitee.com/openeuler/openEuler-bootstrap    |tienbon    |
-| openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |cdxiaohu        |
-| openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          | cdxiaohu |
-| openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        | cdxiaohu |
+| openeuler-jenkins      | https://gitee.com/openeuler/openeuler-jenkins      |hcy1012        |
+| openEuler-lsb          | https://gitee.com/openeuler/openEuler-lsb          | gomico |
+| openEuler-menus        | https://gitee.com/openeuler/openEuler-menus        | gomico |
 | openeuler-obs          | https://gitee.com/openeuler/openeuler-obs          |tienbon        |
-| openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     | cdxiaohu  |
+| openeuler-os-build     | https://gitee.com/openeuler/openeuler-os-build     | hcy1012  |
 | openEuler-pkginfo      | https://gitee.com/openeuler/openEuler-pkginfo      |Douber123        |
-| openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   | cdxiaohu  |
-| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | cdxiaohu  |
-| openjfx8               | https://gitee.com/openeuler/openjfx8               | cdxiaohu|
-| openRSO                | https://gitee.com/openeuler/openRSO                | cdxiaohu |
+| openEuler-rpm-config   | https://gitee.com/openeuler/openEuler-rpm-config   | hcy1012  |
+| openeuler-wiki-bot     | https://gitee.com/openeuler/openeuler-wiki-bot     | gomico  |
+| openjfx8               | https://gitee.com/openeuler/openjfx8               | gomico|
+| openRSO                | https://gitee.com/openeuler/openRSO                | gomico |
 | openstack              | https://gitee.com/openeuler/openstack              |Douber123        |
-| operator-manager       | https://gitee.com/openeuler/operator-manager       | cdxiaohu  |
+| operator-manager       | https://gitee.com/openeuler/operator-manager       | hcy1012  |
 | pacemaker-mgmt         | https://gitee.com/openeuler/pacemaker-mgmt         |tienbon        |
 | package-reinforce-test | https://gitee.com/openeuler/package-reinforce-test |tienbon        |
 | patch-tracking         | https://gitee.com/openeuler/patch-tracking         |JasonW |
@@ -190,20 +190,20 @@ openEuler当前所有仓库的README文件链接如下，欢迎各位贡献者�
 | sonic-linux-kernel     | https://gitee.com/openeuler/sonic-linux-kernel     |  小顽童      |
 | stratovirt             | https://gitee.com/openeuler/stratovirt             |  小顽童      |
 | sync-bot               | https://gitee.com/openeuler/sync-bot               |   小顽童     |
-| syscontainer-tools     | https://gitee.com/openeuler/syscontainer-tools     |cdxiaohu        |
+| syscontainer-tools     | https://gitee.com/openeuler/syscontainer-tools     |hcy1012        |
 | sysmonitor             | https://gitee.com/openeuler/sysmonitor             |Judy01    |
 | tarsier                | https://gitee.com/openeuler/tarsier                |Judy01  |
 | test-tools             | https://gitee.com/openeuler/test-tools             |Judy01  |
 | tool-collections       | https://gitee.com/openeuler/tool-collections       |Judy01|
-| tp-libvirt             | https://gitee.com/openeuler/tp-libvirt             |cdxiaohu        |
-| tp-qemu                | https://gitee.com/openeuler/tp-qemu                |cdxiaohu        |
+| tp-libvirt             | https://gitee.com/openeuler/tp-libvirt             |hcy1012        |
+| tp-qemu                | https://gitee.com/openeuler/tp-qemu                |gomico        |
 | trucker                | https://gitee.com/openeuler/trucker                |Judy01  |
 | user-committee         | https://gitee.com/openeuler/user-committee         | Judy01  |
-| vmtop                  | https://gitee.com/openeuler/vmtop                  |cdxiaohu        |
+| vmtop                  | https://gitee.com/openeuler/vmtop                  |gomico        |
 | wayca-scheduler        | https://gitee.com/openeuler/wayca-scheduler        | Judy01  |
 | wayca-scheduler-bench  | https://gitee.com/openeuler/wayca-scheduler-bench  | Judy01  |
-| website                | https://gitee.com/openeuler/website                |cdxiaohu        |
-| website-v2             | https://gitee.com/openeuler/website-v2             |cdxiaohu        |
+| website                | https://gitee.com/openeuler/website                |gomico        |
+| website-v2             | https://gitee.com/openeuler/website-v2             |hcy1012        |
 | wine-app               | https://gitee.com/openeuler/wine-app               | Judy01  |
 | wisdom-advisor         | https://gitee.com/openeuler/wisdom-advisor         | 尘世小顽童 |
 | wsl                    | https://gitee.com/openeuler/wsl                    | 尘世小顽童 |
