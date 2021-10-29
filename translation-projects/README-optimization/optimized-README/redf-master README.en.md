@@ -1,0 +1,36 @@
+# redf
+
+#### Description
+Reliable enterprise data fabric for NVMe over Fabrics
+
+#### Software Architecture
+Software architecture description
+
+#### Installation
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### Instructions
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### Contribution
+
+1.  Fork the repository.
+2.  Create a Feat_xxx branch.
+3.  Commit your code.
+4.  Create a pull request.
+
+
+#### Gitee Features
+
+1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md.
+2.  Gitee blog: [blog.gitee.com](https://blog.gitee.com)
+3.  Explore open source projects: [https://gitee.com/explore](https://gitee.com/explore)
+4.  Most valuable open source project: [GVP](https://gitee.com/gvp)
+5.  Manual of Gitee: [https://gitee.com/help](https://gitee.com/help)
+6.  Most popular members:  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
