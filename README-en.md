@@ -1,5 +1,5 @@
 ![输入图片说明](images/G11N-logo.png)  
-English | [简体中文](./README-zh.md) | [Русский язык](./README.ru.md)
+English | [简体中文](./README-cn.md) | [Русский язык](./README.ru.md)
 # What is globalization
 This repo contains resources that promote the globalization of [the openEuler community](https://openeuler.org/en/). It is maintained by the G11N SIG, a group that aims to provide a smooth language and cultural experience to the openEuler Community.
 ## How it will help
