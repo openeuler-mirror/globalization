@@ -1,28 +1,28 @@
 # eggo
 
-### Introduction
-The Eggo project was designed to automate flexibly the deployment of K8S clusters and to track deployment processes in mass production environments. In Cloud Native architecture, you can deploy clusters by tracking configuration with GitOps management.
+### Description
+The Eggo project was designed to automate the deployment of K8S clusters in mass production environments, track deployment processes, and provide a high degree of flexibility. By combining GitOps management and deployment configuration tracking, cluster deployment is implemented in cloud native mode, enabling cluster management.
 
-- Support multiple versions of Linux: such as openEuler/CentOS/Ubuntu；
-- Support multiple architectures (amd64/arm64) : a cluster supports nodes of multiple architectures;
-- Support multiple deployments: binary and kubeadm (to be implemented);
-- Support deploying online and offline, and deploying cluster via Gitops;
+- Support multi-release version of Linux: such as openEuler/CentOS/Ubuntu；
+- Support multi-architecture deployment: a cluster supports nodes of multiple architectures(amd64/arm64);
+- Support for multiple deployment modes: binary and KUbeadm (to be implemented);
+- Support online and offline deployment, and cluster deployment using Gitops;
 
-Currently, eggo has deployed clusters by executing commands. The following are three deployment modes that are supported by eggo:
-
-
-- Deploy online. You only need to write the `yaml` configuration file for the deployment. You can download required rpm packages/binary files/plug-ins/docker images during the installation and deployment via the Internet (You can download from Google, so make sure your computer access to the Internet). Online deployment currently cannot support download and installation of plug-ins , and it will be implemented. 【Details in [eggo operation manual](/docs/manual.md)】
-- Deploy Offline. Package all rpm packages/binary files/plug-ins/docker images into a `tar.gz` file in a required format. Then compile the corresponding `yaml` configuration file (details in [eggo operation manual](/docs/manual.md)), so that you can deploy clusters by executing commands.  
-- Deploy new clusters with meta cluster via Gitops (to be implemented).
-
-### Architecture
-Details in [Software architecture description](./docs/general_design.md)
-
-### Details
-Details in [eggo operation manual](https://docs.openeuler.org/zh/docs/21.09/docs/Kubernetes/eggo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.html)
+Currently, eggo implements the deployment using the command. The following are three deployment modes supported by eggo:
 
 
-### Versions
+- Online deployment. Only need to write the `yaml` configuration file for the deployment. The required rpm package/binary file/plug-in/docker image are automatically downloaded online during the installation and deployment phase. Online deployment Currently, plug-ins cannot be downloaded and installed online. Plug-ins will be deployed online in the future. Details see [eggo operation manual](/docs/manual.md).
+- Offline deployment. Package all rpm packages/binary files/plug-in/docker images into a `tar.gz` file in a certain format. Then write the corresponding `yaml` configuration file (details see [eggo operation manual](/docs/manual.md)), the cluster will be deployed by executing commands.  
+- Deploy new clusters using meta-clusters through GitOps. The feature is still under development.
+
+### Software Architecture
+detailed [Software architecture description](./docs/general_design.md)
+
+### Detailed usage
+detailed [eggo operation manual](https://docs.openeuler.org/zh/docs/21.09/docs/Kubernetes/eggo%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.html)
+
+
+### Releases
 
 ```
 # Step 1: update file of VERSION, and push pr
@@ -31,9 +31,9 @@ $ vi VERSION
 $ ./hack/releasenote.sh
 ```
 
-### Acknowledgement
+### Gratitude
 
-The design of Eggo was inspired by [Kubekey](https://github.com/kubesphere/kubekey).
+The design of Eggo was inspired by [Kubekey](https://github.com/kubesphere/kubekey), thanks to their great work.
 
 ### Contribution
 
