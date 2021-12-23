@@ -52,16 +52,16 @@
 如果您有任何问题，或有任何想法，请随时[联系我们](g11n@openeuler.org)。
 想获取更多信息，请访问[G11N](https://gitee.com/openeuler/G11N)。
 
-## 团队成员
+## 团队成员与分工
 
-judithsq
+judithsq--全球化工具平台
 
-liupengroc
+liupengroc--网站内容本地化
 
-hcy1012
+hcy1012--软件全球化测试
 
-lshelen
+lshelen--营销和UX内容创译
 
-zwyopen2021
+zwyopen2021--GUI/CLI界面国际化
 
-yanhuiling
+yanhuiling--产品文档翻译理论
