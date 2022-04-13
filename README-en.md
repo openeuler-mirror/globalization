@@ -2,10 +2,10 @@
 
 English | [简体中文](./README-cn.md) | [Русский язык](./README.ru.md)
 # What is globalization
-This repo contains resources that promote the globalization of [the openEuler community](https://openeuler.org/en/). It is maintained by the G11N SIG, a group that aims to provide a smooth language and cultural experience to the openEuler Community.
+This repo contains resources that promote the globalization of [the openEuler community](https://openeuler.org/en/). It is maintained by the G11N SIG, a group that aims to provide a smooth language and cultural experience to the community.
 ## How it will help
 ### Globalization basics
-Useful resources are offered in this repo to make you prepared for globalization:
+Useful resources are offered in this repo to help you get prepared for globalization:
 * Globalization principles
 * Standard localization processes
 * Cultural taboos
@@ -17,9 +17,9 @@ Useful resources are offered in this repo to make you prepared for globalization
 * Localization (l10n): Translate docs and website content. Convert GUI and docs from English to native languages.
 * l10n and g11n testing: Ensure that products can be used internationally or worldwide, including all testing necessary to make sure that products will satisfy given requirements for language support, cultural support, and multilingual support.
 ### Globalization platform
-Where necessary tools and a complete localization process are available to help you translate and localize GUIs, docs, and website content. (More details coming soon)
+Where necessary tools and a complete localization process are available to help you translate and localize GUIs, docs, and web content. The platform is now under construction and we'll keep you update of the progress.
 ## How to contribute
-We welcome any kinds of contribution
+We welcome any kinds of contribution:
 * Translations
 * i18n and l10n tools
 * g11n tests
