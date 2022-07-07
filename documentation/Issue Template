@@ -88,7 +88,7 @@ Such as system message logs, component logs, dump information, and images.
 <!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
 <!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
 
-1. Vulnerability Information
+**Vulnerability Information**
 Vulnerability ID:
 Affected component:
 Affected version:
@@ -99,7 +99,7 @@ Vulnerability creation time:
 For details about the vulnerability, see the vulnerability analysis guide:
 https://gitee.com/openeuler/cve-manager/blob/master/doc/md/manual.md 
 
-2. Vulnerability Analysis
+**Vulnerability Analysis**
 Impact:
 openEuler score:
 Version affected:
