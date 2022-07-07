@@ -1,0 +1,243 @@
+1	Task
+
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+
+2	Open Source Promotion Plan 2022 
+
+Project Name: 
+Enter the project name in the Title text box.
+
+Difficulty: 
+Basic or advanced.
+
+Description: 
+Clearly describe the project and its background.
+
+Output Criteria: 
+List the items to be output and the criteria.
+
+Technical Requirements: 
+List the development skills and programming languages required for this project.
+
+Mentor/Email:
+
+Project Repository:
+
+References:
+Provide the links to the project repositories and necessary learning materials.
+
+3	Requirement
+
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+
+
+Feature Description:
+Briefly describe the feature. (Positive words are recommended.)
+
+Feature Competitiveness:
+Briefly describe the competitiveness of the feature.
+
+Hardware Architecture:
+For example: ARM/x86/Loongson/SW/MIPS. If no architecture is involved, enter NoArch.
+
+Feature Constraints:
+Briefly describe the known constraints or impacts. If there is no constraint or impact, enter N/A.
+
+Related Repository:
+Enter the full paths of the repositories, including the repositories you modify or add.
+
+Delivery Individual/Team:
+Specify the delivery owner. If there is a support team, enter the team.
+
+4	Bug
+
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+
+Issue Title: 
+Briefly describe the issue, including the scenario, actions taken, and results. (Positive words are recommended.)
+
+Environment Information:
+Hardware:
+(1) Provide information about the faulty hardware in bare metal scenarios.
+(2) Provide XML files or configurations in VM scenarios.
+Software:
+(1) Provide the OS version and branch.
+(2) Provide the kernel information.
+(3) Provide the version of the faulty component.
+If special networking is used, provide the network topology.
+
+Issue Reproduction:
+Operation details.
+Occurrence probability (occasional issue or not).
+
+Expected Result:
+Describe the expected result, which can be obtained by comparing the old and new versions.
+
+Actual Result:
+Describe the result of the issue.
+
+Additional Information:
+Such as system message logs, component logs, dump information, and images.
+5	Version
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+6	CVE or Safety
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+
+**Vulnerability Information**
+Vulnerability ID:
+Affected component:
+Affected version:
+CVSS V3.0 score:
+Vulnerability description:
+Vulnerability disclosure time:
+Vulnerability creation time:
+For details about the vulnerability, see the vulnerability analysis guide:
+https://gitee.com/openeuler/cve-manager/blob/master/doc/md/manual.md 
+
+**Vulnerability Analysis**
+Impact:
+openEuler score:
+Version affected:
+
+7	HDC – Contest 
+
+<!-- # Select an issue type, such as requirement, bug, or CVE from the drop-down list on the left of the Title text box. -->
+<!-- # Select a milestone based on the version involved in the issue. If no version is involved, select No related milestones. -->
+
+Task Type:
+
+Task Description:
+
+Score:
+Urgency:
+Difficulty:
+
+8	Custom 
+
+9	Translation
+
+Task description:
+
+PR link:
+
+Documents to be translated:
+
+PR merged on:
+
+10	Internship 
+
+<!—Select Internship from the drop-down list on the left of the Title text box. -->\
+<!-- Select the intern-SIG_name (for example, intern-Kernel) in the Labels area. -->
+
+### Issue Title: Enter a title that accurately summarizes the task.
+
+Task Score: 
+XX points (for example, 10 points).
+
+Background Description: 
+Describe the background of the issue to be solved.
+
+Requirement Description: 
+Describe the requirements.
+
+Environment Requirements:
+Example:
+CPU architecture: x86_64/AArch64
+OS version: openEuler 20.03-LTS-SP1
+Kernel version: 4.19.90
+
+Output Criteria: 
+List the requirements and criteria for task output.
+
+PR Submission Address: Provide the repository where the PR is submitted.
+
+Expected Completion Time: 202X-XX-XX (for example, 2021-10-11)
+
+References: Provide reference documents and links to related projects.
+
+Mentor/Email: 
+@Gitee_username email_address
+
+Remarks:
+
+This issue can be claimed only by students who participate in the openEuler Open Source Internship program (https://www.openeuler.org/en/internship/ ).
+
+11	Change Mgmt 
+
+| Difference analysis report |                                               |          |                    |
+| :----------- | ----------------------------------------------------- | -------- | ------------------ |
+| Reason of the version change |                                                      |   Version after the change |                   |
+| Difference category     | Difference item                                                | Difference description | Impact assessment and adaptation solution |
+| Feature change      | Added/Deleted/Changed feature implementation                        |          |                    |
+|              |                                                       |          |                    |
+| Configuration file | Added/Deleted/Changed configuration items                                  |          |                    |
+|              |                                                       |          |                    |
+| ABI difference | Added/Deleted/Changed APIs                                |          |                    |
+|              | Added/Deleted/Changed structures                            |          |                    |
+|              |                                                       |          |                    |
+| Command/Function | Added/Deleted/Changed commands                        |          |                    |
+|              | Added/Deleted/Changed command options                        |          |                    |
+|              | Added/Deleted/Changed log output                            |          |                    |
+|              |                                                       |          |                    |
+| SPEC files     | Added/Deleted/Changed compilation dependencies, installed dependencies, and changed dependent software versions                                       |
+|                    |
+|              | Changed the way to split software packages                   |                    |                    |
+|              |                                                       |          |                    |
+
+12	Package Input 
+
+Software Package Introduction: 
+Briefly describe scenarios and corresponding packages.
+
+Scenario:
+Requirement provider: Describe the requirement source.
+Scenario description: Describe the scenario where the software package needs to be introduced.
+
+Package Owner:
+Provide the name of the SIG that introduces the package. Software packages in the openEuler community are managed and maintained by SIGs.
+
+Target Branch:
+List the branches where the package is to be introduced based on the application scenarios of the package, for example, openEuler 21.09.
+Note the following when introducing a software package into branches:
+1. The software package should be introduced to the master first.
+2. The software package can enter the version only after the master is stable.
+
+Software Packages:
+List software packages to be introduced.
+(1) Package name 1
+(2) Package name 2
+
+Release Mode:
+Release mode of the introduced software package, such as basic ISO, everything, EPOL, oepkg, or not release.
+
+Software Package Introduction Check: 
+Software Package Introduction Principles: 
+https://gitee.com/openeuler/community/blob/master/zh/technical-committee/governance/software-management.md# %E8%BD %AF %E4%BB %B6%E9%80%89%E5%9E %8B %E5%8F %8A %E5%BC %95%E5%85%A5%E5%89%8D %E6%A3%80%E6%9F %A5  
+
+Analysis Guide on openEuler Software Package Introduction:
+https://gitee.com/openeuler/website-v2/blob/master/web-ui/docs/zh/blog/gitee-cmd/openEuler %E7%A4%BE %E5%8C %BA %E8%BD %AF %E4%BB %B6%E5%8C %85%E5%BC %95%E5%85%A5%E5%88%86%E6%9E %90%E6%8C %87%E5%8D %97.md 
+
+(1) Describe whether the software package to be introduced and its dependencies comply with the software package introduction principles.
+(2) List the software packages that do not meet the requirements. Fill the needed software packages in the form and discuss with the TC and SIGs.
+
+| Software Package Name | Lifecycle | Normalization | Source Address | Official Address | License & Copyright | Reason |
+| ---------- | ------------- | ------ | ------ | -------- | ------------------- | ------------ |
+| XXX-XXX | Y/last commit | Y/N | Y/N | Y/N | Y/N | Reason description|
+
+For unspecified check items, see the Software Package Introduction Principles.
+
+13	Bug Bounty 
+
+1. Link to the Document: 
+
+2. Part with Bugs:
+
+3. Bug Description:
+
+4. Expected Result:
+Enter the expected result.
