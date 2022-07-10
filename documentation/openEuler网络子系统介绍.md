@@ -1,6 +1,6 @@
-# openEuler网络系统相关介绍，推荐进一步阅读。
+# openEuler网络子系统相关介绍
 
-参阅：
+参阅，推荐进一步阅读。
 
 > [openEuler网络子系统: 介绍openEuler网络子系统架构 (gitee.com)](https://gitee.com/MrRlu/openeuler_network_subsystem#结语)
 >
@@ -14,7 +14,7 @@
 
 > openEuler网络子系统负责网络IO，通过与网络设备（路由器、交换机等）的数据交互，实现端到端的数据交互过程。
 
-本文通过梳理计算机网络的模型，简单介绍了openEuler网络系统中网络子系统，并介绍了openEuler内核在网络通信方面的创新技术点，使得读者可以对openEuler的网络子系统有一定的了解。
+本文通过梳理计算机网络的模型，简单介绍了openEuler中的网络子系统，并介绍了openEuler内核在网络通信方面的创新技术点，使得读者可以对openEuler的网络子系统有一定的了解。
 
 ## 网络模型
 
