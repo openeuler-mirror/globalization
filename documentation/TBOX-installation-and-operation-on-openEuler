@@ -4,7 +4,7 @@ This blog describes how to install TBOX on openEuler and test and use its module
 
 ## TBOX Introduction
 
-TBOX is a cross-platform C library. By encapsulating unified interfaces for different platforms, it simplifies common development operations. TBOX allows you to focus on actual applications during development instead of interface compatibility issues, and optimaizes performance based on specific features of each platform.
+TBOX is a cross-platform C library. By encapsulating unified interfaces for different platforms, it simplifies common development operations. TBOX allows you to focus on actual applications during development instead of interface compatibility issues, and optimizes performance based on specific features of each platform.
 
 ## 1. Installing TBOX
 
@@ -32,7 +32,7 @@ cd tbox
 xmake
 ```
 
-To directly create an empty project model with TBOX, you can run the `**xmake create -t console_box dir_name**` command to quickly integrate, compile, and use TBOX.
+To directly create an empty project model with TBOX, you can run the `xmake create -t console_box dir_name` command to quickly integrate, compile, and use TBOX.
 
 During the installation on openEuler, compilation problems may occur in TBOX.
 
@@ -82,7 +82,7 @@ src/tbox/hash/../prefix/type.h:169:9: error: unknown type name ‘tb_atomic64_t�
   > in src/tbox/hash/adler32.c
 ```
 
-If the problem occurs, download TBOX again for compilation, or run the `**xmake f -c**` command and recompile TBOX.
+If the problem occurs, download TBOX again for compilation, or run the `xmake f -c` command and recompile TBOX.
 
 1.3  Running and test
 
@@ -107,20 +107,20 @@ This section describes the special modules of TBOX.
 
 TBOX provides the following modules:
 
-- `stream`:     common non-blocking stream, which is used to process single-channel     blocking and non-blocking I/Os. It supports     general data flow protocols and has built-in cache. It is powerful but heavyweight.
-- `static_stream`: static stream optimized for the static data     buffer. It is used only to maintain the static data buffer, read, write,     and parse operations. It is lightweight and efficient.
+- `stream`: common non-blocking stream, which is used to process single-channel blocking and non-blocking I/Os. It supports general data flow protocols and has built-in cache. It is powerful but heavyweight.
+- `static_stream`: static stream optimized for the static data buffer. It is used only to maintain the static data buffer, read, write, and parse operations. It is lightweight and efficient.
 
 Multiple filters can be mounted to the modules to filter and transform data between streams. The following filters are supported:
 
-\1.   **zip_filter:** compression and decompression filter for gzip and zlib.
+1. **zip_filter:** compression and decompression filter for gzip and zlib.
 
-\2.   **charset_filter**: filter for character set encoding.
+2. **charset_filter**: filter for character set encoding.
 
-\3.   **chunked_filter**: decoding filter for HTTP chunked encoding.
+3. **chunked_filter**: decoding filter for HTTP chunked encoding.
 
 There are also **stream-based transfers**:
 
-\1.   **transfer**: a transfer based on two streams, which can be used for simple HTTP download, upload, and replication between files.
+1. **transfer**: a transfer based on two streams, which can be used for simple HTTP download, upload, and replication between files.
 
 ## 3. Getting Started
 
@@ -189,9 +189,6 @@ The blog only introduces usage. You may customize streams as required based on r
 
 ## References:
 
-- GitHub - tboox/tbox: A glib-like multi-platform c library
+- [GitHub - tboox/tbox: 🎁 A glib-like multi-platform c library](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Ftboox%2Ftbox)
 - [Stream Library - TBOX 1.5.x Tutorial - BookStack](https://gitee.com/link?target=https%3A%2F%2Fwww.bookstack.cn%2Fread%2Ftboox-1.5.x%2F%E6%B5%81%E5%BA%93.md)
 - [Usage of the TBOX Data Bit Operation Interface](https://tboox.org/cn/2016/08/12/bits-operation/)
-
- 
-
