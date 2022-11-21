@@ -127,13 +127,13 @@ int a=2,b=2;
 硬编码：
 
 ```
-if（a==2） return false;
+if(a==2) return false;
 ```
 
 非硬编码：
 
 ```
-if（a==b） return true;
+if(a==b) return true;
 ```
 
 
@@ -279,5 +279,17 @@ if（a==b） return true;
 * 假如本地化翻译为德文，单词“All”翻译为“Todos”，此时，热键对应的应该修改为Ctrl+T，否则在本地化操作过程中，该功能将失效。
 
 * 对于使用非字母文字的国家，依然沿用英文中的热键方式，如中国、日本、韩国等。
+ 
 
+***
+
+Source：
+
+https://blog.csdn.net/qq_45580956/article/details/118217528
+
+https://blog.csdn.net/972301/article/details/113314473
+
+https://www.modb.pro/db/210173
+
+https://zh.m.wikipedia.org/zh-sg/%E5%81%BD%E7%BF%BB%E8%AD%AF
  
