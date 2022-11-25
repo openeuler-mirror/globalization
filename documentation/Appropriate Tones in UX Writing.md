@@ -2,7 +2,7 @@
 
 
 
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdiscover.ticketmaster.com.au%2Fwp-content%2Fuploads%2F2021%2F01%2F2021-sounds-better-together-tones-and-i-jimmy-barnes-missy-higgins-738x415.jpg&amp;refer=http%3A%2F%2Fdiscover.ticketmaster.com.au&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1671961007&amp;t=73470cd3da529bd448f3c24842aa0edd" alt="Tones" title="Tones" style="zoom:67%;" />
+<img src="https://i0.wp.com/expresswriters.com/wp-content/uploads/2019/10/header-6.jpg?resize=2048%2C716&ssl=1" alt="Tones" title="Tones" style="zoom:67%;" />
 
 
 
