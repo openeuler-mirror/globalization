@@ -1,0 +1,4 @@
+中文：claim: "committer的权限或其维护的仓库发生变更，要得到其同意"
+英文：claim: "The requests for changes in a committer's permissions or in the repos maintained by a committer must be approved by the committer."
+中文：explain: "需要 {committer} 在此 PR 的 review 中留下 "/lgtm" 表示确认同意其权限或维护的仓库发生变更。"
+英文：explain: "{committer} needs to comment "/lgtm" in this PR to confirm consent to the changes in the permissions or repos maintained.
