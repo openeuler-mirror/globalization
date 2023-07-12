@@ -1,4 +1,4 @@
-openEuler in Edge-Cloud Synergy
+**openEuler in Edge-Cloud Synergy**
 
 As we know, technical breakthroughs, such as artificial intelligence (AI) and industrial internet of things (IIoT), have caused huge data growth at the network edge. Though centralized cloud computing has been well recognized among enterprises, it alone is no longer able to cater to these unforeseen circumstances. It is hindered by infrequent data interaction caused by inadequate bandwidth, noticeable network latencies, and high management costs.
 
@@ -20,6 +20,5 @@ openEuler 22.09 is designed with the following features to better utilize centra
 
 openEuler 22.09 is perfectly suitable for edge-cloud synergy scenarios, such as smart manufacturing, urban transportation, tollway inspection, smart gas stations, medical image recognition, and smart campuses.
 
-For more information about how openEuler helps in modern applications, visit:
-	[openEuler official website](https://www.openeuler.org/en/)
+For more information about how openEuler helps in modern applications, visit [openEuler official website](https://www.openeuler.org/en/)
 
