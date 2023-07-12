@@ -21,5 +21,5 @@ openEuler 22.09 is designed with the following features to better utilize centra
 openEuler 22.09 is perfectly suitable for edge-cloud synergy scenarios, such as smart manufacturing, urban transportation, tollway inspection, smart gas stations, medical image recognition, and smart campuses.
 
 For more information about how openEuler helps in modern applications, visit:
-	openEuler official website
-	openEuler@GitHub
+	[openEuler official website](https://www.openeuler.org/en/)
+
