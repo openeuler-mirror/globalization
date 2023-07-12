@@ -1,7 +1,6 @@
 # penEuler Embedded: Towards Multi-Scenario Embedded Platforms
 openEuler Embedded is a Linux distribution for embedded scenarios derived from the mainline version of openEuler. This blog post will describe the paths through which openEuler Embedded becomes a high-quality, Linux-centric, and multi-scenario embedded software platform.
  
-## Architecture of openEuler Embedded
 ### Linux-centric  
 Same as the mainline version of openEuler, openEuler Embedded uses the 5.10 release of the Linux kernel with six years of long-term support. Software packages of openEuler Embedded also share the same code as those of the mainline version of openEuler. Nearly 300 core software packages have been ported to openEuler Embedded. An overall goal of openEuler Embedded is to support all applicable software packages in the openEuler community.
 To meet the requirements of embedded scenarios, openEuler Embedded offers innovative features in terms of kernel features, system configurations, software package combinations, image tailoring, security hardening, and lightweight. For example, openEuler Embedded provides soft real-time capabilities based on the Preempt-RT patch and minimum OS images tailored down to 5 MB, with a fast startup time less than 5s.
