@@ -637,7 +637,7 @@ Gitee可以根据git username和邮箱关联到Gitee账号。
 >![](images/contribution-guide-37.png)  
 
 **步骤 12**	翻译博客内容（包括图片）。贡献者根据计划进行翻译，翻译并自检完成后，发同行评审和外籍审校（如有机会，可发技术评审）。注意交付终稿前需再进行1-2轮工具检查。  
-**步骤 13**	翻译完成后，进入拉去的本地库下**openEuler-portal/app/zh/blog**路径，创建以作者命名的文件夹，如**gaohuatao**，然后将翻译完成的文档和图片放入文件夹内。若已有该文件夹，直接放入文件即可。  
+**步骤 13**	翻译完成后，进入拉取的本地库下**openEuler-portal/app/en/blog**路径，创建以作者命名的文件夹，如**gaohuatao**，然后将翻译完成的文档和图片放入文件夹内。若已有该文件夹，直接放入文件即可。  
 ●	Git: 在Git CLI输入如下代码。  
 ```git add <file-path>  暂存更改```  
 ```git commit -m "<message>"  输入更改信息，比如Added an English blog.```  
