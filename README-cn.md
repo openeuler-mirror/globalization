@@ -1,6 +1,7 @@
 ![G11N logo](images/G11N-logo.png)  
 
-简体中文 | [English](./README-en.md) | [Русский язык](./README.ru.md)
+简体中文 \| [Deutsch](./README-de.md) \| [English](./README-en.md) \| [Español](./README-es.md) \| [français](./README-fr.md) \| [Русский язык](./README-ru.md)
+
 # 简介
 
 本仓库为全球化资源仓库，由G11N SIG负责维护，旨在加速[openEuler社区](https://openeuler.org/en/)的全球化进程并提供流畅的语言文化体验。
