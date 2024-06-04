@@ -1,6 +1,7 @@
 ![G11N logo](images/G11N-logo.png)  
 
-Русский язык | [简体中文](./README-cn.md) | [English](./README-en.md)
+Русский язык \| [简体中文](./README-cn.md) \| [Deutsch](./README-de.md) \| [English](./README-en.md) \| [Español](./README-es.md) \| [français](./README-fr.md)
+
 # Что такое глобализация
 Этот отчет содержит ресурсы, которые способствуют глобализации сообщества openEuler.  Он поддерживается G11N SIG，группой, которая стремится предоставить гладкий язык и культурную среду сообществу openEuler.  
 ## Как это поможет

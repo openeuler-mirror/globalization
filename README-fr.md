@@ -1,45 +1,59 @@
-![G11N logo](images/G11N-logo.png)  
+![G11N logo](images/G11N-logo.png)
 
-English \| [简体中文](./README-cn.md) \| [Deutsch](./README-de.md) \| [Español](./README-es.md) \| [français](./README-fr.md) \| [Русский язык](./README-ru.md)
+français \| [简体中文](./README-cn.md) \| [Deutsch](./README-de.md) \| [English](./README-en.md) \| [Español](./README-es.md) \| [Русский язык](./README-ru.md)
 
-# What is globalization
-This repo contains resources that promote the globalization of [the openEuler community](https://openeuler.org/en/). It is maintained by the G11N SIG, a group that aims to provide a smooth language and cultural experience to the community.
-## How it will help
-### Globalization basics
-Useful resources are offered in this repo to help you get prepared for globalization:
-* Globalization principles
-* Standard localization processes
-* Cultural taboos
-* Tips for website globalization testing
-* Translation and localization skills
-* Translation best practices
-### Globalization activities
-* Internationalization (i18n): Enable openEuler products to use different languages.
-* Localization (l10n): Translate docs and website content. Convert GUI and docs from English to native languages.
-* l10n and g11n testing: Ensure that products can be used internationally or worldwide, including all testing necessary to make sure that products will satisfy given requirements for language support, cultural support, and multilingual support.
-### Globalization platform
-Where necessary tools and a complete localization process are available to help you translate and localize GUIs, docs, and web content. The platform is now under construction and we'll keep you update of the progress.
-## How to contribute
-We welcome any kinds of contribution:
-* Translations
-* i18n and l10n tools
-* g11n tests
-* Bug fixes
-* Feature additions
+# Qu'est-ce que la globalisation
 
-You can contribute as an individual, join our language teams, or create a new team. You may find these documents helpful in assisting your contribution effort:
-* *Translation Team Creation Guide*
-* *Translation Team Creation Checklist*
-* *Upstream Team Cooperation Guide*
-* *Team Communication Strategies*
-* *FAQs*
+Ce dépôt contient des ressources qui favorisent la globalisation de la [communauté openEuler](https://openeuler.org/en/). Il est géré par le SIG G11N, un groupe qui vise à offrir une expérience linguistique et culturelle harmonieuse à la communauté.
 
-Feel free to join SIG meetings and share your ideas and insights with us. Meeting minutes and all related materials are available in the *Documentation* folder.
-## Getting in touch
-If you have any questions to ask, or any ideas and insights to share, don't hesitate to [let us know](g11n@openeuler.org).
-For more information, visit [G11N](https://gitee.com/openeuler/G11N).
+## Comment cela va aider
 
-## Contributors
+### Fonctions de base de la globalisation
+
+Des ressources utiles sont offertes dans ce dépôt pour vous aider à vous préparer à la globalisation :
+
+* Principes de la globalisation
+* Processus de localisation standard
+* Tabous culturels
+* Conseils pour les tests de globalisation du site Web
+* Compétences en traduction et localisation
+* Bonnes pratiques de traduction
+
+### Activités relatives à la globalisation
+
+* Internationalisation (i18n) : permettre aux produits openEuler d'utiliser différentes langues.
+* Localisation (l10n) : traduire les documents et le contenu du site Web. Convertir l'interface utilisateur graphique et les documents de l'anglais en langues maternelles.
+* Tests l10n et g11n : garantir que les produits peuvent être utilisés à l'échelle internationale ou mondiale, y compris tous les tests nécessaires pour s'assurer que les produits répondront aux exigences données en matière de soutien linguistique, culturel et multilingue.
+
+### Plateforme de globalisation
+
+Lorsque nécessaire, des outils et un processus de localisation complet sont disponibles pour vous aider à traduire et à localiser les interfaces utilisateur graphiques, les documents et le contenu du site Web. La plateforme est actuellement en cours de construction et nous vous tiendrons au courant de la progression.
+
+## Comment contribuer
+
+Toutes les contributions sont les bienvenues :
+
+* Traduction
+* Outils i18n et l10n
+* Tests g11n
+* Correction de bugs
+* Ajouts de fonctionnalités
+
+Vous pouvez contribuer en tant qu'individu, rejoindre nos équipes linguistiques ou créer une nouvelle équipe. Ces documents peuvent vous être utiles dans le cadre de votre effort de contribution :
+
+* *Guide de création de l'équipe de traduction*
+* *Check-list pour la création d'une équipe de traduction*
+* *Guide de coopération de l'équipe en amont*
+* *Stratégies de communication en équipe*
+* *Foire aux questions*
+
+N'hésitez pas à participer aux réunions du SIG et à nous faire part de vos idées et de votre point de vue. Les procès-verbaux de la réunion et tous les documents connexes sont disponibles dans le dossier *Documentation*.
+
+## Nous contacter
+
+Si vous avez des questions à poser ou des idées à partager, n'hésitez pas à [nous en faire part](g11n@openeuler.org). Pour en savoir plus, visitez le [site G11N](https://gitee.com/openeuler/G11N).
+
+## Contributeurs
 
 <table>
     <tr>
