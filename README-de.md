@@ -47,7 +47,7 @@ Sie können als Einzelperson beitragen, unseren Sprachteams beitreten oder ein n
 * *Strategien zur Teamkommunikation*
 * *FAQs*
 
-Zögern Sie nicht, an SIG-Meetings teilzunehmen und Ihre Ideen und Erkenntnisse mit uns zu teilen. Meeting-Protokolle und alle dazugehörigen Materialien sind im *Dokumentationsordner* verfügbar.
+Zögern Sie nicht, an SIG-Meetings teilzunehmen und Ihre Ideen und Erkenntnisse mit uns zu teilen. Meeting-Protokolle und alle dazugehörigen Materialien sind im Ordner *Dokumentation* verfügbar.
 
 ## Kontakt
 
