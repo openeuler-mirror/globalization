@@ -36,7 +36,7 @@ You can contribute as an individual, join our language teams, or create a new te
 
 Feel free to join SIG meetings and share your ideas and insights with us. Meeting minutes and all related materials are available in the *Documentation* folder.
 ## Getting in touch
-If you have any questions to ask, or any ideas and insights to share, don't hesitate to [let us know](g11n@openeuler.org).
+If you have any questions to ask, or any ideas and insights to share, don't hesitate to [let us know](https://www.openeuler.org/en/sig/sig-detail/?name=G11N).
 For more information, visit [G11N](https://gitee.com/openeuler/G11N).
 
 ## Contributors
