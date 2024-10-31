@@ -51,7 +51,7 @@
 
 ## 联系我们
 
-如果您有任何问题，或有任何想法，请随时[联系我们](g11n@openeuler.org)。
+如果您有任何问题，或有任何想法，请随时[联系我们](https://www.openeuler.org/zh/sig/sig-detail/?name=G11N)。
 想获取更多信息，请访问[G11N](https://gitee.com/openeuler/G11N)。
 
 ## 贡献者
